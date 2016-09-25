@@ -3,13 +3,25 @@ import random
 
 from src.log_config import config_logger
 
-places = ["Go", "Gelang Road", "Comunity Chest", "Serangoon Road", "Income Tax", "Ang Mo Kio Station",
-          "Farrer Road", "Chance", "Braddell Road", "Thomson Road", "Jail", "Battery Road", "Empress Place",
-          "Empress Place", "Connaught Drive", "City Hall Station", "Colombo Court", "Havelock Road",
-          "ST Andrews Road", "Free Parking", "Robinson Road", "Chance", "Shenton Way", "Coller Quay",
-          "Jurong East Station", "Marina Square", "Emerald Hill", "Water Works", "Raffles City", "Go to Jail",
-          "Tanglin Road", "Orchard Road", "Community Chest", "Scotts Road", "Bedok Station", "Chance", "Nassim Road",
-          "Super Tax", "Queen Astrid Park"]
+board = ["Go", "Gelang Road", "Comunity Chest", "Serangoon Road", "Income Tax", "Ang Mo Kio Station",
+         "Farrer Road", "Chance", "Braddell Road", "Thomson Road", "Jail", "Battery Road", "Empress Place",
+         "Empress Place", "Connaught Drive", "City Hall Station", "Colombo Court", "Havelock Road",
+         "ST Andrews Road", "Free Parking", "Robinson Road", "Chance", "Shenton Way", "Coller Quay",
+         "Jurong East Station", "Marina Square", "Emerald Hill", "Water Works", "Raffles City", "Go to Jail",
+         "Tanglin Road", "Orchard Road", "Community Chest", "Scotts Road", "Bedok Station", "Chance", "Nassim Road",
+         "Super Tax", "Queen Astrid Park"]
+chance_cards_list = [
+    "Make general repairs on all of your Property. For each House pay $250. For each Hotel pay $1,000.",
+    "Your building loan matures. Recieve $1,500.",
+    "GET OUT OF JAIL FREE. This card may be kept until needed or sold.",
+    "Advance to BATTERY ROAD. IF you pass GO collect $2,000.",
+    "Advance to COLLER QUAY. IF you pass GO collect $2,000.",
+    "Advance to QUEEN ASTRID PARK. IF you pass GO collect $2,000.", "Advance to GO. Collect $2,000.",
+    "Go back three spaces.", "Pay school fees of $1,500.", "Bank pays you dividend of $500.",
+    "Take a ride to CITY HALL STATION. IF you pass GO collect $2,000.",
+    "You are assessed for street repairs: per House $400; per Hotel $1,150.",
+    "You have won a crossword competition. Collect $2,000.", "Speeding fine. Pay $150.",
+    "Drunk in charge. $200 fine", "Go to jail. Move directly to Jail. DO NOT PASS GO SO, DO NOT COLLECT $2,000."]
 
 
 class Player:
@@ -36,7 +48,7 @@ class Player:
         self.__location = value
 
     def __str__(self):
-        return "{} is at {}".format(self.__name, places[self.__location])
+        return "{} is at {}".format(self.__name, board[self.__location])
 
 
 def main():
@@ -51,7 +63,7 @@ def main():
         player.throw_dice()
         logging.debug(player.dice)
         player.location += player.dice[0] + player.dice[1]
-        logging.debug(str(player)+"\n")
+        logging.debug(str(player) + "\n")
 
         turn += 1
 

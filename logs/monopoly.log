@@ -173,3 +173,43 @@
 2016-09-24 20:14:57,188 [DEBUG]  (2, 5)
 2016-09-24 20:14:57,188 [DEBUG]  Felix is at Community Chest
 
+2016-09-24 20:16:47,012 [DEBUG]  John is at Go
+2016-09-24 20:16:47,013 [DEBUG]  (2, 5)
+2016-09-24 20:16:47,013 [DEBUG]  John is at Chance
+
+2016-09-24 20:16:47,013 [DEBUG]  Felix is at Go
+2016-09-24 20:16:47,013 [DEBUG]  (3, 5)
+2016-09-24 20:16:47,013 [DEBUG]  Felix is at Braddell Road
+
+2016-09-24 20:16:47,013 [DEBUG]  John is at Chance
+2016-09-24 20:16:47,013 [DEBUG]  (2, 1)
+2016-09-24 20:16:47,013 [DEBUG]  John is at Jail
+
+2016-09-24 20:16:47,013 [DEBUG]  Felix is at Braddell Road
+2016-09-24 20:16:47,013 [DEBUG]  (5, 1)
+2016-09-24 20:16:47,013 [DEBUG]  Felix is at Connaught Drive
+
+2016-09-24 20:16:47,013 [DEBUG]  John is at Jail
+2016-09-24 20:16:47,013 [DEBUG]  (2, 4)
+2016-09-24 20:16:47,013 [DEBUG]  John is at Colombo Court
+
+2016-09-24 20:16:47,013 [DEBUG]  Felix is at Connaught Drive
+2016-09-24 20:16:47,014 [DEBUG]  (3, 2)
+2016-09-24 20:16:47,014 [DEBUG]  Felix is at Free Parking
+
+2016-09-24 20:16:47,014 [DEBUG]  John is at Colombo Court
+2016-09-24 20:16:47,014 [DEBUG]  (2, 1)
+2016-09-24 20:16:47,014 [DEBUG]  John is at Free Parking
+
+2016-09-24 20:16:47,014 [DEBUG]  Felix is at Free Parking
+2016-09-24 20:16:47,014 [DEBUG]  (3, 5)
+2016-09-24 20:16:47,014 [DEBUG]  Felix is at Water Works
+
+2016-09-24 20:16:47,014 [DEBUG]  John is at Free Parking
+2016-09-24 20:16:47,014 [DEBUG]  (4, 1)
+2016-09-24 20:16:47,014 [DEBUG]  John is at Jurong East Station
+
+2016-09-24 20:16:47,014 [DEBUG]  Felix is at Water Works
+2016-09-24 20:16:47,014 [DEBUG]  (5, 4)
+2016-09-24 20:16:47,014 [DEBUG]  Felix is at Nassim Road
+
