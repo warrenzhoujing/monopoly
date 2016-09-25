@@ -1,4 +1,7 @@
+import logging
 import random
+
+from src.log_config import config_logger
 
 places = ["Go", "Gelang Road", "Comunity Chest", "Serangoon Road", "Income Tax", "Ang Mo Kio Station",
           "Farrer Road", "Chance", "Braddell Road", "Thomson Road", "Jail", "Battery Road", "Empress Place",
@@ -37,20 +40,21 @@ class Player:
 
 
 def main():
+    config_logger()
     players = [Player('Felix'), Player('John')]
 
     turn = 1
     while turn <= 10:
         index = turn % len(players)
         player = players[index]
-        print(player)
+        logging.debug(player)
         player.throw_dice()
-        print(player.dice)
+        logging.debug(player.dice)
         player.location += player.dice[0] + player.dice[1]
-        print(player)
-        print()
+        logging.debug(str(player)+"\n")
 
         turn += 1
+
 
 if __name__ == '__main__':
     main()

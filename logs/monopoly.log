@@ -1,0 +1,175 @@
+2016-09-24 20:12:21,934 [MainThread  ] [DEBUG]  John is at Go
+2016-09-24 20:12:21,934 [MainThread  ] [DEBUG]  (1, 2)
+2016-09-24 20:12:21,947 [MainThread  ] [DEBUG]  Felix is at Go
+2016-09-24 20:12:21,948 [MainThread  ] [DEBUG]  (1, 1)
+2016-09-24 20:12:21,957 [MainThread  ] [DEBUG]  John is at Serangoon Road
+2016-09-24 20:12:21,958 [MainThread  ] [DEBUG]  (5, 4)
+2016-09-24 20:12:21,959 [MainThread  ] [DEBUG]  Felix is at Comunity Chest
+2016-09-24 20:12:21,959 [MainThread  ] [DEBUG]  (2, 4)
+2016-09-24 20:12:21,959 [MainThread  ] [DEBUG]  John is at Empress Place
+2016-09-24 20:12:21,960 [MainThread  ] [DEBUG]  (3, 1)
+2016-09-24 20:12:21,961 [MainThread  ] [DEBUG]  Felix is at Braddell Road
+2016-09-24 20:12:21,962 [MainThread  ] [DEBUG]  (4, 5)
+2016-09-24 20:12:21,962 [MainThread  ] [DEBUG]  John is at Colombo Court
+2016-09-24 20:12:21,962 [MainThread  ] [DEBUG]  (2, 5)
+2016-09-24 20:12:21,965 [MainThread  ] [DEBUG]  Felix is at Havelock Road
+2016-09-24 20:12:21,968 [MainThread  ] [DEBUG]  (2, 5)
+2016-09-24 20:12:21,970 [MainThread  ] [DEBUG]  John is at Coller Quay
+2016-09-24 20:12:21,973 [MainThread  ] [DEBUG]  (1, 1)
+2016-09-24 20:12:21,979 [MainThread  ] [DEBUG]  Felix is at Jurong East Station
+2016-09-24 20:12:21,982 [MainThread  ] [DEBUG]  (2, 5)
+2016-09-24 20:12:40,902 [MainThread  ] [DEBUG]  John is at Go
+2016-09-24 20:12:40,902 [MainThread  ] [DEBUG]  (3, 1)
+2016-09-24 20:12:50,453 [MainThread  ] [DEBUG]  John is at Go
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  (1, 5)
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  John is at Farrer Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  Felix is at Go
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  (1, 2)
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  Felix is at Serangoon Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  John is at Farrer Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  (2, 1)
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  John is at Thomson Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  Felix is at Serangoon Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  (4, 1)
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  Felix is at Braddell Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  John is at Thomson Road
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  (1, 5)
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  John is at City Hall Station
+2016-09-24 20:12:50,454 [MainThread  ] [DEBUG]  Felix is at Braddell Road
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  (4, 3)
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  Felix is at City Hall Station
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  John is at City Hall Station
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  (2, 2)
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  John is at Free Parking
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  Felix is at City Hall Station
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  (4, 4)
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  Felix is at Coller Quay
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  John is at Free Parking
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  (2, 2)
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  John is at Coller Quay
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  Felix is at Coller Quay
+2016-09-24 20:12:50,455 [MainThread  ] [DEBUG]  (4, 1)
+2016-09-24 20:12:50,456 [MainThread  ] [DEBUG]  Felix is at Raffles City
+2016-09-24 20:13:00,020 [MainThread  ] [DEBUG]  John is at Go
+2016-09-24 20:13:00,021 [MainThread  ] [DEBUG]  (5, 4)
+2016-09-24 20:13:00,021 [MainThread  ] [DEBUG]  John is at Thomson Road
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  John is at Go
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  (2, 5)
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  John is at Chance
+
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  Felix is at Go
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  (2, 2)
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  Felix is at Income Tax
+
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  John is at Chance
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  (5, 3)
+2016-09-24 20:13:18,187 [MainThread  ] [DEBUG]  John is at City Hall Station
+
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  Felix is at Income Tax
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  (2, 3)
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  Felix is at Thomson Road
+
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  John is at City Hall Station
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  (1, 5)
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  John is at Chance
+
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  Felix is at Thomson Road
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  (2, 3)
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  Felix is at Connaught Drive
+
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  John is at Chance
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  (4, 2)
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  John is at Water Works
+
+2016-09-24 20:13:18,188 [MainThread  ] [DEBUG]  Felix is at Connaught Drive
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  (3, 1)
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  Felix is at ST Andrews Road
+
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  John is at Water Works
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  (2, 1)
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  John is at Tanglin Road
+
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  Felix is at ST Andrews Road
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  (5, 5)
+2016-09-24 20:13:18,189 [MainThread  ] [DEBUG]  Felix is at Raffles City
+
+2016-09-24 20:14:02,340 [DEBUG]  John is at Go
+2016-09-24 20:14:02,340 [DEBUG]  (3, 4)
+2016-09-24 20:14:02,340 [DEBUG]  John is at Chance
+
+2016-09-24 20:14:02,340 [DEBUG]  Felix is at Go
+2016-09-24 20:14:02,340 [DEBUG]  (4, 4)
+2016-09-24 20:14:02,340 [DEBUG]  Felix is at Braddell Road
+
+2016-09-24 20:14:02,341 [DEBUG]  John is at Chance
+2016-09-24 20:14:02,341 [DEBUG]  (1, 1)
+2016-09-24 20:14:02,341 [DEBUG]  John is at Thomson Road
+
+2016-09-24 20:14:02,341 [DEBUG]  Felix is at Braddell Road
+2016-09-24 20:14:02,341 [DEBUG]  (3, 5)
+2016-09-24 20:14:02,341 [DEBUG]  Felix is at Colombo Court
+
+2016-09-24 20:14:02,341 [DEBUG]  John is at Thomson Road
+2016-09-24 20:14:02,341 [DEBUG]  (4, 4)
+2016-09-24 20:14:02,341 [DEBUG]  John is at Havelock Road
+
+2016-09-24 20:14:02,341 [DEBUG]  Felix is at Colombo Court
+2016-09-24 20:14:02,341 [DEBUG]  (2, 1)
+2016-09-24 20:14:02,342 [DEBUG]  Felix is at Free Parking
+
+2016-09-24 20:14:02,342 [DEBUG]  John is at Havelock Road
+2016-09-24 20:14:02,342 [DEBUG]  (4, 1)
+2016-09-24 20:14:02,342 [DEBUG]  John is at Shenton Way
+
+2016-09-24 20:14:02,342 [DEBUG]  Felix is at Free Parking
+2016-09-24 20:14:02,342 [DEBUG]  (2, 4)
+2016-09-24 20:14:02,342 [DEBUG]  Felix is at Marina Square
+
+2016-09-24 20:14:02,342 [DEBUG]  John is at Shenton Way
+2016-09-24 20:14:02,342 [DEBUG]  (5, 2)
+2016-09-24 20:14:02,342 [DEBUG]  John is at Go to Jail
+
+2016-09-24 20:14:02,342 [DEBUG]  Felix is at Marina Square
+2016-09-24 20:14:02,342 [DEBUG]  (5, 1)
+2016-09-24 20:14:02,345 [DEBUG]  Felix is at Orchard Road
+
+2016-09-24 20:14:57,186 [DEBUG]  John is at Go
+2016-09-24 20:14:57,187 [DEBUG]  (2, 5)
+2016-09-24 20:14:57,187 [DEBUG]  John is at Chance
+
+2016-09-24 20:14:57,187 [DEBUG]  Felix is at Go
+2016-09-24 20:14:57,187 [DEBUG]  (2, 1)
+2016-09-24 20:14:57,187 [DEBUG]  Felix is at Serangoon Road
+
+2016-09-24 20:14:57,187 [DEBUG]  John is at Chance
+2016-09-24 20:14:57,187 [DEBUG]  (4, 3)
+2016-09-24 20:14:57,187 [DEBUG]  John is at Connaught Drive
+
+2016-09-24 20:14:57,187 [DEBUG]  Felix is at Serangoon Road
+2016-09-24 20:14:57,187 [DEBUG]  (4, 4)
+2016-09-24 20:14:57,187 [DEBUG]  Felix is at Battery Road
+
+2016-09-24 20:14:57,187 [DEBUG]  John is at Connaught Drive
+2016-09-24 20:14:57,187 [DEBUG]  (5, 5)
+2016-09-24 20:14:57,188 [DEBUG]  John is at Jurong East Station
+
+2016-09-24 20:14:57,188 [DEBUG]  Felix is at Battery Road
+2016-09-24 20:14:57,188 [DEBUG]  (4, 4)
+2016-09-24 20:14:57,188 [DEBUG]  Felix is at Free Parking
+
+2016-09-24 20:14:57,188 [DEBUG]  John is at Jurong East Station
+2016-09-24 20:14:57,188 [DEBUG]  (2, 2)
+2016-09-24 20:14:57,188 [DEBUG]  John is at Raffles City
+
+2016-09-24 20:14:57,188 [DEBUG]  Felix is at Free Parking
+2016-09-24 20:14:57,188 [DEBUG]  (3, 3)
+2016-09-24 20:14:57,188 [DEBUG]  Felix is at Marina Square
+
+2016-09-24 20:14:57,188 [DEBUG]  John is at Raffles City
+2016-09-24 20:14:57,188 [DEBUG]  (4, 3)
+2016-09-24 20:14:57,188 [DEBUG]  John is at Chance
+
+2016-09-24 20:14:57,188 [DEBUG]  Felix is at Marina Square
+2016-09-24 20:14:57,188 [DEBUG]  (2, 5)
+2016-09-24 20:14:57,188 [DEBUG]  Felix is at Community Chest
+
