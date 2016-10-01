@@ -213,3 +213,1087 @@
 2016-09-24 20:16:47,014 [DEBUG]  (5, 4)
 2016-09-24 20:16:47,014 [DEBUG]  Felix is at Nassim Road
 
+2016-09-25 11:34:58,530 [DEBUG]  John is at Go
+2016-09-25 11:34:58,530 [DEBUG]  (4, 3)
+2016-09-25 11:34:58,530 [DEBUG]  John is at Chance
+
+2016-09-25 11:34:58,530 [DEBUG]  Bank pays you dividend of $500.
+2016-09-25 11:34:58,531 [DEBUG]  Felix is at Go
+2016-09-25 11:34:58,531 [DEBUG]  (2, 3)
+2016-09-25 11:34:58,531 [DEBUG]  Felix is at Ang Mo Kio Station
+
+2016-09-25 11:34:58,531 [DEBUG]  John is at Chance
+2016-09-25 11:34:58,531 [DEBUG]  (1, 5)
+2016-09-25 11:34:58,531 [DEBUG]  John is at Empress Place
+
+2016-09-25 11:34:58,531 [DEBUG]  Felix is at Ang Mo Kio Station
+2016-09-25 11:34:58,531 [DEBUG]  (1, 5)
+2016-09-25 11:34:58,531 [DEBUG]  Felix is at Battery Road
+
+2016-09-25 11:34:58,531 [DEBUG]  John is at Empress Place
+2016-09-25 11:34:58,531 [DEBUG]  (4, 4)
+2016-09-25 11:34:58,532 [DEBUG]  John is at Chance
+
+2016-09-25 11:34:58,532 [DEBUG]  Bank pays you dividend of $500.
+2016-09-25 11:34:58,532 [DEBUG]  Felix is at Battery Road
+2016-09-25 11:34:58,532 [DEBUG]  (4, 2)
+2016-09-25 11:34:58,532 [DEBUG]  Felix is at Havelock Road
+
+2016-09-25 11:34:58,532 [DEBUG]  John is at Chance
+2016-09-25 11:34:58,532 [DEBUG]  (5, 1)
+2016-09-25 11:34:58,532 [DEBUG]  John is at Water Works
+
+2016-09-25 11:34:58,532 [DEBUG]  Felix is at Havelock Road
+2016-09-25 11:34:58,532 [DEBUG]  (4, 5)
+2016-09-25 11:34:58,532 [DEBUG]  Felix is at Emerald Hill
+
+2016-09-25 11:34:58,532 [DEBUG]  John is at Water Works
+2016-09-25 11:34:58,532 [DEBUG]  (4, 3)
+2016-09-25 11:34:58,532 [DEBUG]  John is at Bedok Station
+
+2016-09-25 11:34:58,532 [DEBUG]  Felix is at Emerald Hill
+2016-09-25 11:34:58,532 [DEBUG]  (1, 1)
+2016-09-25 11:34:58,533 [DEBUG]  Felix is at Raffles City
+
+2016-09-25 11:41:50,550 [DEBUG]  John is at Go
+2016-09-25 11:41:50,551 [DEBUG]  (2, 2)
+2016-09-25 11:41:50,551 [DEBUG]  John is at Income Tax
+
+2016-09-25 11:41:50,551 [DEBUG]  Felix is at Go
+2016-09-25 11:41:50,551 [DEBUG]  (2, 3)
+2016-09-25 11:41:50,551 [DEBUG]  Felix is at Ang Mo Kio Station
+
+2016-09-25 11:41:50,551 [DEBUG]  John is at Income Tax
+2016-09-25 11:41:50,551 [DEBUG]  (4, 2)
+2016-09-25 11:41:50,551 [DEBUG]  John is at Jail
+
+2016-09-25 11:41:50,551 [DEBUG]  Felix is at Ang Mo Kio Station
+2016-09-25 11:41:50,551 [DEBUG]  (4, 2)
+2016-09-25 11:41:50,551 [DEBUG]  Felix is at Battery Road
+
+2016-09-25 11:41:50,551 [DEBUG]  John is at Jail
+2016-09-25 11:41:50,552 [DEBUG]  (5, 2)
+2016-09-25 11:41:50,552 [DEBUG]  John is at Havelock Road
+
+2016-09-25 11:41:50,552 [DEBUG]  Felix is at Battery Road
+2016-09-25 11:41:50,552 [DEBUG]  (1, 3)
+2016-09-25 11:41:50,552 [DEBUG]  Felix is at City Hall Station
+
+2016-09-25 11:41:50,552 [DEBUG]  John is at Havelock Road
+2016-09-25 11:41:50,552 [DEBUG]  (2, 2)
+2016-09-25 11:41:50,552 [DEBUG]  John is at Chance
+
+2016-09-25 11:41:50,552 [DEBUG]  Drunk in charge. $200 fine
+2016-09-25 11:41:50,552 [DEBUG]  Felix is at City Hall Station
+2016-09-25 11:41:50,552 [DEBUG]  (1, 3)
+2016-09-25 11:41:50,552 [DEBUG]  Felix is at Free Parking
+
+2016-09-25 11:41:50,552 [DEBUG]  John is at Chance
+2016-09-25 11:41:50,553 [DEBUG]  (3, 1)
+2016-09-25 11:41:50,553 [DEBUG]  John is at Marina Square
+
+2016-09-25 11:41:50,553 [DEBUG]  Felix is at Free Parking
+2016-09-25 11:41:50,553 [DEBUG]  (5, 5)
+2016-09-25 11:41:50,553 [DEBUG]  Felix is at Go to Jail
+
+2016-09-25 11:43:59,861 [DEBUG]  John is at Go
+2016-09-25 11:43:59,862 [DEBUG]  (2, 4)
+2016-09-25 11:43:59,862 [DEBUG]  John is at Farrer Road
+
+2016-09-25 11:43:59,862 [DEBUG]  Felix is at Go
+2016-09-25 11:43:59,863 [DEBUG]  (5, 1)
+2016-09-25 11:43:59,863 [DEBUG]  Felix is at Farrer Road
+
+2016-09-25 11:43:59,863 [DEBUG]  John is at Farrer Road
+2016-09-25 11:43:59,863 [DEBUG]  (2, 5)
+2016-09-25 11:43:59,864 [DEBUG]  John is at Empress Place
+
+2016-09-25 11:43:59,864 [DEBUG]  Felix is at Farrer Road
+2016-09-25 11:43:59,864 [DEBUG]  (2, 3)
+2016-09-25 11:43:59,864 [DEBUG]  Felix is at Battery Road
+
+2016-09-25 11:43:59,864 [DEBUG]  John is at Empress Place
+2016-09-25 11:43:59,864 [DEBUG]  (2, 2)
+2016-09-25 11:43:59,865 [DEBUG]  John is at Havelock Road
+
+2016-09-25 11:43:59,865 [DEBUG]  Felix is at Battery Road
+2016-09-25 11:43:59,865 [DEBUG]  (5, 5)
+2016-09-25 11:43:59,865 [DEBUG]  Felix is at Chance
+
+2016-09-25 11:43:59,865 [DEBUG]  Speeding fine. Pay $150.
+2016-09-25 11:43:59,865 [DEBUG]  John is at Havelock Road
+2016-09-25 11:43:59,865 [DEBUG]  (1, 2)
+2016-09-25 11:43:59,865 [DEBUG]  John is at Robinson Road
+
+2016-09-25 11:43:59,865 [DEBUG]  Felix is at Chance
+2016-09-25 11:43:59,865 [DEBUG]  (3, 4)
+2016-09-25 11:43:59,865 [DEBUG]  Felix is at Raffles City
+
+2016-09-25 11:43:59,865 [DEBUG]  John is at Robinson Road
+2016-09-25 11:43:59,865 [DEBUG]  (1, 2)
+2016-09-25 11:43:59,865 [DEBUG]  John is at Coller Quay
+
+2016-09-25 11:43:59,865 [DEBUG]  Felix is at Raffles City
+2016-09-25 11:43:59,865 [DEBUG]  (5, 3)
+2016-09-25 11:43:59,865 [DEBUG]  Felix is at Nassim Road
+
+2016-09-25 11:45:16,990 [DEBUG]  John is at Go
+2016-09-25 11:45:16,990 [DEBUG]  (3, 1)
+2016-09-25 11:45:16,990 [DEBUG]  John is at Income Tax
+2016-09-25 11:45:16,990 [DEBUG]  
+
+2016-09-25 11:45:16,990 [DEBUG]  Felix is at Go
+2016-09-25 11:45:16,990 [DEBUG]  (3, 4)
+2016-09-25 11:45:16,990 [DEBUG]  Felix is at Chance
+2016-09-25 11:45:16,990 [DEBUG]  You are assessed for street repairs: per House $400; per Hotel $1,150.
+2016-09-25 11:45:16,990 [DEBUG]  
+
+2016-09-25 11:45:16,990 [DEBUG]  John is at Income Tax
+2016-09-25 11:45:16,990 [DEBUG]  (3, 2)
+2016-09-25 11:45:16,990 [DEBUG]  John is at Thomson Road
+2016-09-25 11:45:16,990 [DEBUG]  
+
+2016-09-25 11:45:16,991 [DEBUG]  Felix is at Chance
+2016-09-25 11:45:16,991 [DEBUG]  (3, 4)
+2016-09-25 11:45:16,991 [DEBUG]  Felix is at Connaught Drive
+2016-09-25 11:45:16,991 [DEBUG]  
+
+2016-09-25 11:45:16,991 [DEBUG]  John is at Thomson Road
+2016-09-25 11:45:16,991 [DEBUG]  (1, 3)
+2016-09-25 11:45:16,991 [DEBUG]  John is at Empress Place
+2016-09-25 11:45:16,991 [DEBUG]  
+
+2016-09-25 11:45:16,991 [DEBUG]  Felix is at Connaught Drive
+2016-09-25 11:45:16,991 [DEBUG]  (1, 2)
+2016-09-25 11:45:16,991 [DEBUG]  Felix is at Havelock Road
+2016-09-25 11:45:16,991 [DEBUG]  
+
+2016-09-25 11:45:16,991 [DEBUG]  John is at Empress Place
+2016-09-25 11:45:16,991 [DEBUG]  (1, 2)
+2016-09-25 11:45:16,991 [DEBUG]  John is at Colombo Court
+2016-09-25 11:45:16,991 [DEBUG]  
+
+2016-09-25 11:45:16,991 [DEBUG]  Felix is at Havelock Road
+2016-09-25 11:45:16,991 [DEBUG]  (2, 1)
+2016-09-25 11:45:16,992 [DEBUG]  Felix is at Robinson Road
+2016-09-25 11:45:16,992 [DEBUG]  
+
+2016-09-25 11:45:16,992 [DEBUG]  John is at Colombo Court
+2016-09-25 11:45:16,992 [DEBUG]  (2, 5)
+2016-09-25 11:45:16,992 [DEBUG]  John is at Coller Quay
+2016-09-25 11:45:16,992 [DEBUG]  
+
+2016-09-25 11:45:16,992 [DEBUG]  Felix is at Robinson Road
+2016-09-25 11:45:16,992 [DEBUG]  (3, 3)
+2016-09-25 11:45:16,992 [DEBUG]  Felix is at Emerald Hill
+2016-09-25 11:45:16,992 [DEBUG]  
+
+2016-09-25 11:51:59,701 [DEBUG]  John is at Go
+2016-09-25 11:51:59,701 [DEBUG]  (3, 1)
+2016-09-25 11:51:59,701 [DEBUG]  John is at Income Tax
+2016-09-25 11:51:59,702 [DEBUG]  
+
+2016-09-25 11:51:59,702 [DEBUG]  Felix is at Go
+2016-09-25 11:51:59,702 [DEBUG]  (4, 3)
+2016-09-25 11:51:59,702 [DEBUG]  Felix is at Chance
+2016-09-25 11:57:49,400 [DEBUG]  John is at Go
+2016-09-25 11:57:49,401 [DEBUG]  (2, 2)
+2016-09-25 11:57:49,401 [DEBUG]  John is at Income Tax
+2016-09-25 11:57:49,401 [DEBUG]  
+
+2016-09-25 11:57:49,401 [DEBUG]  Felix is at Go
+2016-09-25 11:57:49,401 [DEBUG]  (2, 4)
+2016-09-25 11:57:49,401 [DEBUG]  Felix is at Farrer Road
+2016-09-25 11:57:49,401 [DEBUG]  
+
+2016-09-25 11:57:49,401 [DEBUG]  John is at Income Tax
+2016-09-25 11:57:49,401 [DEBUG]  (5, 4)
+2016-09-25 11:57:49,401 [DEBUG]  John is at Empress Place
+2016-09-25 11:57:49,401 [DEBUG]  
+
+2016-09-25 11:57:49,401 [DEBUG]  Felix is at Farrer Road
+2016-09-25 11:57:49,401 [DEBUG]  (3, 1)
+2016-09-25 11:57:49,401 [DEBUG]  Felix is at Jail
+2016-09-25 11:57:49,401 [DEBUG]  
+
+2016-09-25 11:57:49,401 [DEBUG]  John is at Empress Place
+2016-09-25 11:57:49,401 [DEBUG]  (1, 5)
+2016-09-25 11:57:49,401 [DEBUG]  John is at Free Parking
+2016-09-25 11:57:49,402 [DEBUG]  
+
+2016-09-25 11:57:49,402 [DEBUG]  Felix is at Jail
+2016-09-25 11:57:49,402 [DEBUG]  (4, 1)
+2016-09-25 11:57:49,402 [DEBUG]  Felix is at City Hall Station
+2016-09-25 11:57:49,402 [DEBUG]  
+
+2016-09-25 11:57:49,402 [DEBUG]  John is at Free Parking
+2016-09-25 11:57:49,402 [DEBUG]  (4, 3)
+2016-09-25 11:57:49,402 [DEBUG]  John is at Emerald Hill
+2016-09-25 11:57:49,402 [DEBUG]  
+
+2016-09-25 11:57:49,402 [DEBUG]  Felix is at City Hall Station
+2016-09-25 11:57:49,402 [DEBUG]  (4, 2)
+2016-09-25 11:57:49,402 [DEBUG]  Felix is at Chance
+2016-09-25 11:58:08,175 [DEBUG]  John is at Go
+2016-09-25 11:58:08,176 [DEBUG]  (2, 1)
+2016-09-25 11:58:08,176 [DEBUG]  John is at Serangoon Road
+2016-09-25 11:58:08,176 [DEBUG]  
+
+2016-09-25 11:58:08,176 [DEBUG]  Felix is at Go
+2016-09-25 11:58:08,176 [DEBUG]  (3, 4)
+2016-09-25 11:58:08,176 [DEBUG]  Felix is at Chance
+2016-09-25 11:58:08,176 [DEBUG]  Advance to BATTERY ROAD. IF you pass GO collect $2,000.
+2016-09-25 11:58:08,176 [DEBUG]  
+
+2016-09-25 11:58:08,176 [DEBUG]  John is at Serangoon Road
+2016-09-25 11:58:08,176 [DEBUG]  (3, 1)
+2016-09-25 11:58:08,176 [DEBUG]  John is at Chance
+2016-09-25 11:58:08,176 [DEBUG]  Take a ride to CITY HALL STATION. IF you pass GO collect $2,000.
+2016-09-25 11:58:08,177 [DEBUG]  
+
+2016-09-25 11:58:08,177 [DEBUG]  Felix is at Chance
+2016-09-25 11:58:08,177 [DEBUG]  (4, 3)
+2016-09-25 11:58:08,177 [DEBUG]  Felix is at Connaught Drive
+2016-09-25 11:58:08,177 [DEBUG]  
+
+2016-09-25 11:58:08,177 [DEBUG]  John is at Chance
+2016-09-25 11:58:08,177 [DEBUG]  (5, 5)
+2016-09-25 11:58:08,177 [DEBUG]  John is at Havelock Road
+2016-09-25 11:58:08,177 [DEBUG]  
+
+2016-09-25 11:58:08,178 [DEBUG]  Felix is at Connaught Drive
+2016-09-25 11:58:08,178 [DEBUG]  (1, 3)
+2016-09-25 11:58:08,178 [DEBUG]  Felix is at ST Andrews Road
+2016-09-25 11:58:08,178 [DEBUG]  
+
+2016-09-25 11:58:08,178 [DEBUG]  John is at Havelock Road
+2016-09-25 11:58:08,178 [DEBUG]  (1, 3)
+2016-09-25 11:58:08,178 [DEBUG]  John is at Chance
+2016-09-25 11:58:08,178 [DEBUG]  Make general repairs on all of your Property. For each House pay $250. For each Hotel pay $1,000.
+2016-09-25 11:58:08,178 [DEBUG]  
+
+2016-09-25 11:58:08,178 [DEBUG]  Felix is at ST Andrews Road
+2016-09-25 11:58:08,178 [DEBUG]  (4, 1)
+2016-09-25 11:58:08,178 [DEBUG]  Felix is at Coller Quay
+2016-09-25 11:58:08,178 [DEBUG]  
+
+2016-09-25 11:58:08,179 [DEBUG]  John is at Chance
+2016-09-25 11:58:08,179 [DEBUG]  (3, 3)
+2016-09-25 11:58:08,179 [DEBUG]  John is at Water Works
+2016-09-25 11:58:08,179 [DEBUG]  
+
+2016-09-25 11:58:08,179 [DEBUG]  Felix is at Coller Quay
+2016-09-25 11:58:08,179 [DEBUG]  (3, 4)
+2016-09-25 11:58:08,179 [DEBUG]  Felix is at Tanglin Road
+2016-09-25 11:58:08,179 [DEBUG]  
+
+2016-10-01 10:36:53,784 [DEBUG]  John is at Go
+2016-10-01 10:36:53,784 [DEBUG]  (5, 3)
+2016-10-01 10:36:53,784 [DEBUG]  John is at Braddell Road
+2016-10-01 10:36:53,784 [DEBUG]  
+
+2016-10-01 10:36:53,784 [DEBUG]  Felix is at Go
+2016-10-01 10:36:53,785 [DEBUG]  (1, 1)
+2016-10-01 10:36:53,785 [DEBUG]  Felix is at Comunity Chest
+2016-10-01 10:36:53,785 [DEBUG]  
+
+2016-10-01 10:36:53,785 [DEBUG]  John is at Braddell Road
+2016-10-01 10:36:53,785 [DEBUG]  (4, 3)
+2016-10-01 10:36:53,785 [DEBUG]  John is at City Hall Station
+2016-10-01 10:36:53,785 [DEBUG]  
+
+2016-10-01 10:36:53,785 [DEBUG]  Felix is at Comunity Chest
+2016-10-01 10:36:53,786 [DEBUG]  (4, 3)
+2016-10-01 10:36:53,786 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:36:53,786 [DEBUG]  
+
+2016-10-01 10:36:53,786 [DEBUG]  John is at City Hall Station
+2016-10-01 10:36:53,786 [DEBUG]  (1, 2)
+2016-10-01 10:36:53,786 [DEBUG]  John is at ST Andrews Road
+2016-10-01 10:36:53,786 [DEBUG]  
+
+2016-10-01 10:36:53,786 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:36:53,786 [DEBUG]  (2, 3)
+2016-10-01 10:36:53,786 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:36:53,787 [DEBUG]  
+
+2016-10-01 10:36:53,787 [DEBUG]  John is at ST Andrews Road
+2016-10-01 10:36:53,787 [DEBUG]  (4, 3)
+2016-10-01 10:36:53,787 [DEBUG]  John is at Marina Square
+2016-10-01 10:36:53,787 [DEBUG]  
+
+2016-10-01 10:36:53,787 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:36:53,787 [DEBUG]  (1, 3)
+2016-10-01 10:36:53,787 [DEBUG]  Felix is at ST Andrews Road
+2016-10-01 10:36:53,787 [DEBUG]  
+
+2016-10-01 10:36:53,787 [DEBUG]  John is at Marina Square
+2016-10-01 10:36:53,788 [DEBUG]  (3, 4)
+2016-10-01 10:36:53,788 [DEBUG]  John is at Community Chest
+2016-10-01 10:36:53,788 [DEBUG]  
+
+2016-10-01 10:36:53,788 [DEBUG]  Felix is at ST Andrews Road
+2016-10-01 10:36:53,788 [DEBUG]  (1, 4)
+2016-10-01 10:36:53,788 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:36:53,788 [DEBUG]  
+
+2016-10-01 10:37:08,249 [DEBUG]  John is at Go
+2016-10-01 10:37:08,249 [DEBUG]  (5, 1)
+2016-10-01 10:37:08,249 [DEBUG]  John is at Farrer Road
+2016-10-01 10:37:08,249 [DEBUG]  
+
+2016-10-01 10:37:08,250 [DEBUG]  Felix is at Go
+2016-10-01 10:37:08,250 [DEBUG]  (3, 2)
+2016-10-01 10:37:08,250 [DEBUG]  Felix is at Ang Mo Kio Station
+2016-10-01 10:37:08,250 [DEBUG]  
+
+2016-10-01 10:37:08,250 [DEBUG]  John is at Farrer Road
+2016-10-01 10:37:08,250 [DEBUG]  (4, 1)
+2016-10-01 10:37:08,250 [DEBUG]  John is at Battery Road
+2016-10-01 10:37:08,250 [DEBUG]  
+
+2016-10-01 10:37:08,250 [DEBUG]  Felix is at Ang Mo Kio Station
+2016-10-01 10:37:08,251 [DEBUG]  (4, 2)
+2016-10-01 10:37:08,251 [DEBUG]  Felix is at Battery Road
+2016-10-01 10:37:08,251 [DEBUG]  
+
+2016-10-01 10:37:08,251 [DEBUG]  John is at Battery Road
+2016-10-01 10:37:08,251 [DEBUG]  (2, 3)
+2016-10-01 10:37:08,251 [DEBUG]  John is at Colombo Court
+2016-10-01 10:37:08,251 [DEBUG]  
+
+2016-10-01 10:37:08,252 [DEBUG]  Felix is at Battery Road
+2016-10-01 10:37:08,252 [DEBUG]  (2, 1)
+2016-10-01 10:37:08,252 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:37:08,252 [DEBUG]  
+
+2016-10-01 10:37:08,252 [DEBUG]  John is at Colombo Court
+2016-10-01 10:37:08,252 [DEBUG]  (5, 3)
+2016-10-01 10:37:08,252 [DEBUG]  John is at Jurong East Station
+2016-10-01 10:37:08,252 [DEBUG]  
+
+2016-10-01 10:37:08,252 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:37:08,253 [DEBUG]  (3, 4)
+2016-10-01 10:37:08,253 [DEBUG]  Felix is at Chance
+2016-10-01 10:37:08,253 [DEBUG]  Make general repairs on all of your Property. For each House pay $250. For each Hotel pay $1,000.
+2016-10-01 10:37:08,253 [DEBUG]  
+
+2016-10-01 10:37:08,253 [DEBUG]  John is at Jurong East Station
+2016-10-01 10:37:08,253 [DEBUG]  (3, 1)
+2016-10-01 10:37:08,253 [DEBUG]  John is at Raffles City
+2016-10-01 10:37:08,253 [DEBUG]  
+
+2016-10-01 10:37:08,253 [DEBUG]  Felix is at Chance
+2016-10-01 10:37:08,253 [DEBUG]  (3, 2)
+2016-10-01 10:37:08,254 [DEBUG]  Felix is at Emerald Hill
+2016-10-01 10:37:08,254 [DEBUG]  
+
+2016-10-01 10:37:50,319 [DEBUG]  John is at Go
+2016-10-01 10:37:50,319 [DEBUG]  (5, 5)
+2016-10-01 10:37:50,319 [DEBUG]  John is at Jail
+2016-10-01 10:37:50,319 [DEBUG]  
+
+2016-10-01 10:37:50,319 [DEBUG]  Felix is at Go
+2016-10-01 10:37:50,320 [DEBUG]  (5, 5)
+2016-10-01 10:37:50,320 [DEBUG]  Felix is at Jail
+2016-10-01 10:37:50,320 [DEBUG]  
+
+2016-10-01 10:37:50,320 [DEBUG]  John is at Jail
+2016-10-01 10:37:50,320 [DEBUG]  (5, 3)
+2016-10-01 10:37:50,320 [DEBUG]  John is at ST Andrews Road
+2016-10-01 10:37:50,320 [DEBUG]  
+
+2016-10-01 10:37:50,320 [DEBUG]  Felix is at Jail
+2016-10-01 10:37:50,320 [DEBUG]  (4, 5)
+2016-10-01 10:37:50,320 [DEBUG]  Felix is at Free Parking
+2016-10-01 10:37:50,320 [DEBUG]  
+
+2016-10-01 10:37:50,320 [DEBUG]  John is at ST Andrews Road
+2016-10-01 10:37:50,320 [DEBUG]  (3, 1)
+2016-10-01 10:37:50,321 [DEBUG]  John is at Shenton Way
+2016-10-01 10:37:50,321 [DEBUG]  
+
+2016-10-01 10:37:50,321 [DEBUG]  Felix is at Free Parking
+2016-10-01 10:37:50,321 [DEBUG]  (5, 1)
+2016-10-01 10:37:50,321 [DEBUG]  Felix is at Marina Square
+2016-10-01 10:37:50,321 [DEBUG]  
+
+2016-10-01 10:37:50,321 [DEBUG]  John is at Shenton Way
+2016-10-01 10:37:50,321 [DEBUG]  (4, 2)
+2016-10-01 10:37:50,321 [DEBUG]  John is at Raffles City
+2016-10-01 10:37:50,321 [DEBUG]  
+
+2016-10-01 10:37:50,322 [DEBUG]  Felix is at Marina Square
+2016-10-01 10:37:50,322 [DEBUG]  (5, 1)
+2016-10-01 10:37:50,322 [DEBUG]  Felix is at Orchard Road
+2016-10-01 10:37:50,322 [DEBUG]  
+
+2016-10-01 10:37:50,322 [DEBUG]  John is at Raffles City
+2016-10-01 10:37:50,322 [DEBUG]  (2, 4)
+2016-10-01 10:37:50,322 [DEBUG]  John is at Bedok Station
+2016-10-01 10:37:50,322 [DEBUG]  
+
+2016-10-01 10:37:50,322 [DEBUG]  Felix is at Orchard Road
+2016-10-01 10:37:50,322 [DEBUG]  (2, 5)
+2016-10-01 10:37:50,322 [DEBUG]  Felix is at Queen Astrid Park
+2016-10-01 10:37:50,322 [DEBUG]  
+
+2016-10-01 10:37:55,939 [DEBUG]  John is at Go
+2016-10-01 10:37:55,939 [DEBUG]  (1, 5)
+2016-10-01 10:37:55,939 [DEBUG]  John is at Farrer Road
+2016-10-01 10:37:55,939 [DEBUG]  
+
+2016-10-01 10:37:55,939 [DEBUG]  Felix is at Go
+2016-10-01 10:37:55,939 [DEBUG]  (5, 3)
+2016-10-01 10:37:55,940 [DEBUG]  Felix is at Braddell Road
+2016-10-01 10:37:55,940 [DEBUG]  
+
+2016-10-01 10:37:55,940 [DEBUG]  John is at Farrer Road
+2016-10-01 10:37:55,940 [DEBUG]  (5, 2)
+2016-10-01 10:37:55,940 [DEBUG]  John is at Empress Place
+2016-10-01 10:37:55,940 [DEBUG]  
+
+2016-10-01 10:37:55,940 [DEBUG]  Felix is at Braddell Road
+2016-10-01 10:37:55,940 [DEBUG]  (3, 5)
+2016-10-01 10:37:55,940 [DEBUG]  Felix is at Colombo Court
+2016-10-01 10:37:55,940 [DEBUG]  
+
+2016-10-01 10:37:55,941 [DEBUG]  John is at Empress Place
+2016-10-01 10:37:55,941 [DEBUG]  (3, 4)
+2016-10-01 10:37:55,941 [DEBUG]  John is at Robinson Road
+2016-10-01 10:37:55,941 [DEBUG]  
+
+2016-10-01 10:37:55,941 [DEBUG]  Felix is at Colombo Court
+2016-10-01 10:37:55,941 [DEBUG]  (2, 1)
+2016-10-01 10:37:55,941 [DEBUG]  Felix is at Free Parking
+2016-10-01 10:37:55,941 [DEBUG]  
+
+2016-10-01 10:37:55,941 [DEBUG]  John is at Robinson Road
+2016-10-01 10:37:55,941 [DEBUG]  (2, 4)
+2016-10-01 10:37:55,941 [DEBUG]  John is at Emerald Hill
+2016-10-01 10:37:55,942 [DEBUG]  
+
+2016-10-01 10:37:55,942 [DEBUG]  Felix is at Free Parking
+2016-10-01 10:37:55,942 [DEBUG]  (3, 3)
+2016-10-01 10:37:55,944 [DEBUG]  Felix is at Marina Square
+2016-10-01 10:37:55,944 [DEBUG]  
+
+2016-10-01 10:37:55,945 [DEBUG]  John is at Emerald Hill
+2016-10-01 10:37:55,945 [DEBUG]  (1, 1)
+2016-10-01 10:37:55,945 [DEBUG]  John is at Raffles City
+2016-10-01 10:37:55,945 [DEBUG]  
+
+2016-10-01 10:37:55,945 [DEBUG]  Felix is at Marina Square
+2016-10-01 10:37:55,945 [DEBUG]  (5, 4)
+2016-10-01 10:37:55,945 [DEBUG]  Felix is at Bedok Station
+2016-10-01 10:37:55,945 [DEBUG]  
+
+2016-10-01 10:38:02,288 [DEBUG]  John is at Go
+2016-10-01 10:38:02,288 [DEBUG]  (2, 5)
+2016-10-01 10:38:02,288 [DEBUG]  John is at Chance
+2016-10-01 10:38:02,288 [DEBUG]  Take a ride to CITY HALL STATION. IF you pass GO collect $2,000.
+2016-10-01 10:38:02,288 [DEBUG]  
+
+2016-10-01 10:38:02,288 [DEBUG]  Felix is at Go
+2016-10-01 10:38:02,288 [DEBUG]  (5, 4)
+2016-10-01 10:38:02,288 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:38:02,288 [DEBUG]  
+
+2016-10-01 10:38:02,288 [DEBUG]  John is at Chance
+2016-10-01 10:38:02,288 [DEBUG]  (2, 5)
+2016-10-01 10:38:02,289 [DEBUG]  John is at Connaught Drive
+2016-10-01 10:38:02,289 [DEBUG]  
+
+2016-10-01 10:38:02,289 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:38:02,289 [DEBUG]  (3, 5)
+2016-10-01 10:38:02,289 [DEBUG]  Felix is at Havelock Road
+2016-10-01 10:38:02,289 [DEBUG]  
+
+2016-10-01 10:38:02,289 [DEBUG]  John is at Connaught Drive
+2016-10-01 10:38:02,289 [DEBUG]  (2, 3)
+2016-10-01 10:38:02,289 [DEBUG]  John is at Free Parking
+2016-10-01 10:38:02,289 [DEBUG]  
+
+2016-10-01 10:38:02,289 [DEBUG]  Felix is at Havelock Road
+2016-10-01 10:38:02,289 [DEBUG]  (1, 5)
+2016-10-01 10:38:02,289 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:38:02,289 [DEBUG]  
+
+2016-10-01 10:38:02,289 [DEBUG]  John is at Free Parking
+2016-10-01 10:38:02,290 [DEBUG]  (5, 5)
+2016-10-01 10:38:02,290 [DEBUG]  John is at Go to Jail
+2016-10-01 10:38:02,290 [DEBUG]  
+
+2016-10-01 10:38:02,290 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:38:02,290 [DEBUG]  (2, 3)
+2016-10-01 10:38:02,290 [DEBUG]  Felix is at Raffles City
+2016-10-01 10:38:02,290 [DEBUG]  
+
+2016-10-01 10:38:02,290 [DEBUG]  John is at Go to Jail
+2016-10-01 10:38:02,291 [DEBUG]  (2, 5)
+2016-10-01 10:38:02,291 [DEBUG]  John is at Nassim Road
+2016-10-01 10:38:02,291 [DEBUG]  
+
+2016-10-01 10:38:02,291 [DEBUG]  Felix is at Raffles City
+2016-10-01 10:38:02,291 [DEBUG]  (2, 4)
+2016-10-01 10:38:02,291 [DEBUG]  Felix is at Bedok Station
+2016-10-01 10:38:02,291 [DEBUG]  
+
+2016-10-01 10:38:35,107 [DEBUG]  John is at Go
+2016-10-01 10:38:35,108 [DEBUG]  (1, 4)
+2016-10-01 10:38:35,108 [DEBUG]  John is at Ang Mo Kio Station
+2016-10-01 10:38:35,109 [DEBUG]  
+
+2016-10-01 10:38:35,109 [DEBUG]  Felix is at Go
+2016-10-01 10:38:35,109 [DEBUG]  (2, 5)
+2016-10-01 10:38:35,109 [DEBUG]  Felix is at Chance
+2016-10-01 10:38:35,109 [DEBUG]  Advance to GO. Collect $2,000.
+2016-10-01 10:38:35,110 [DEBUG]  
+
+2016-10-01 10:38:35,110 [DEBUG]  John is at Ang Mo Kio Station
+2016-10-01 10:38:35,110 [DEBUG]  (1, 1)
+2016-10-01 10:38:35,110 [DEBUG]  John is at Chance
+2016-10-01 10:38:35,111 [DEBUG]  Speeding fine. Pay $150.
+2016-10-01 10:38:35,111 [DEBUG]  
+
+2016-10-01 10:38:35,111 [DEBUG]  Felix is at Chance
+2016-10-01 10:38:35,112 [DEBUG]  (3, 4)
+2016-10-01 10:38:35,112 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:38:35,113 [DEBUG]  
+
+2016-10-01 10:38:35,113 [DEBUG]  John is at Chance
+2016-10-01 10:38:35,113 [DEBUG]  (2, 3)
+2016-10-01 10:38:35,114 [DEBUG]  John is at Empress Place
+2016-10-01 10:38:35,114 [DEBUG]  
+
+2016-10-01 10:38:35,114 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:38:35,114 [DEBUG]  (1, 2)
+2016-10-01 10:38:35,114 [DEBUG]  Felix is at Havelock Road
+2016-10-01 10:38:35,114 [DEBUG]  
+
+2016-10-01 10:38:35,114 [DEBUG]  John is at Empress Place
+2016-10-01 10:38:35,115 [DEBUG]  (3, 1)
+2016-10-01 10:38:35,115 [DEBUG]  John is at Colombo Court
+2016-10-01 10:38:35,115 [DEBUG]  
+
+2016-10-01 10:38:35,115 [DEBUG]  Felix is at Havelock Road
+2016-10-01 10:38:35,115 [DEBUG]  (1, 2)
+2016-10-01 10:38:35,115 [DEBUG]  Felix is at Robinson Road
+2016-10-01 10:38:35,115 [DEBUG]  
+
+2016-10-01 10:38:35,116 [DEBUG]  John is at Colombo Court
+2016-10-01 10:38:35,116 [DEBUG]  (4, 5)
+2016-10-01 10:38:35,116 [DEBUG]  John is at Marina Square
+2016-10-01 10:38:35,116 [DEBUG]  
+
+2016-10-01 10:38:35,116 [DEBUG]  Felix is at Robinson Road
+2016-10-01 10:38:35,116 [DEBUG]  (5, 4)
+2016-10-01 10:38:35,116 [DEBUG]  Felix is at Jail
+2016-10-01 10:38:35,117 [DEBUG]  
+
+2016-10-01 10:39:05,520 [DEBUG]  John is at Go
+2016-10-01 10:39:05,521 [DEBUG]  (5, 5)
+2016-10-01 10:39:05,521 [DEBUG]  John is at Jail
+2016-10-01 10:39:05,521 [DEBUG]  
+
+2016-10-01 10:39:05,521 [DEBUG]  Felix is at Go
+2016-10-01 10:39:05,521 [DEBUG]  (5, 4)
+2016-10-01 10:39:05,521 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:39:05,522 [DEBUG]  
+
+2016-10-01 10:39:05,522 [DEBUG]  John is at Jail
+2016-10-01 10:39:05,522 [DEBUG]  (2, 4)
+2016-10-01 10:39:05,522 [DEBUG]  John is at Colombo Court
+2016-10-01 10:39:05,522 [DEBUG]  
+
+2016-10-01 10:39:05,522 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:39:05,522 [DEBUG]  (1, 1)
+2016-10-01 10:39:05,522 [DEBUG]  Felix is at Battery Road
+2016-10-01 10:39:05,522 [DEBUG]  
+
+2016-10-01 10:39:05,522 [DEBUG]  John is at Colombo Court
+2016-10-01 10:39:05,522 [DEBUG]  (3, 3)
+2016-10-01 10:39:05,523 [DEBUG]  John is at Shenton Way
+2016-10-01 10:39:05,523 [DEBUG]  
+
+2016-10-01 10:39:05,523 [DEBUG]  Felix is at Battery Road
+2016-10-01 10:39:05,523 [DEBUG]  (2, 1)
+2016-10-01 10:39:05,523 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:39:05,523 [DEBUG]  
+
+2016-10-01 10:39:05,523 [DEBUG]  John is at Shenton Way
+2016-10-01 10:39:05,524 [DEBUG]  (1, 2)
+2016-10-01 10:39:05,524 [DEBUG]  John is at Marina Square
+2016-10-01 10:39:05,524 [DEBUG]  
+
+2016-10-01 10:39:05,524 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:39:05,524 [DEBUG]  (4, 3)
+2016-10-01 10:39:05,524 [DEBUG]  Felix is at Chance
+2016-10-01 10:39:05,524 [DEBUG]  Speeding fine. Pay $150.
+2016-10-01 10:39:05,524 [DEBUG]  
+
+2016-10-01 10:39:05,524 [DEBUG]  John is at Marina Square
+2016-10-01 10:39:05,524 [DEBUG]  (4, 3)
+2016-10-01 10:39:05,524 [DEBUG]  John is at Community Chest
+2016-10-01 10:39:05,524 [DEBUG]  
+
+2016-10-01 10:39:05,524 [DEBUG]  Felix is at Chance
+2016-10-01 10:39:05,524 [DEBUG]  (1, 2)
+2016-10-01 10:39:05,524 [DEBUG]  Felix is at Jurong East Station
+2016-10-01 10:39:05,524 [DEBUG]  
+
+2016-10-01 10:39:12,655 [DEBUG]  John is at Go
+2016-10-01 10:39:12,656 [DEBUG]  (4, 3)
+2016-10-01 10:39:12,656 [DEBUG]  John is at Chance
+2016-10-01 10:39:12,656 [DEBUG]  Advance to GO. Collect $2,000.
+2016-10-01 10:39:12,656 [DEBUG]  
+
+2016-10-01 10:39:12,656 [DEBUG]  Felix is at Go
+2016-10-01 10:39:12,656 [DEBUG]  (5, 4)
+2016-10-01 10:39:12,656 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:39:12,657 [DEBUG]  
+
+2016-10-01 10:39:12,657 [DEBUG]  John is at Chance
+2016-10-01 10:39:12,657 [DEBUG]  (2, 4)
+2016-10-01 10:39:12,657 [DEBUG]  John is at Empress Place
+2016-10-01 10:39:12,657 [DEBUG]  
+
+2016-10-01 10:39:12,657 [DEBUG]  Felix is at Thomson Road
+2016-10-01 10:39:12,657 [DEBUG]  (5, 3)
+2016-10-01 10:39:12,657 [DEBUG]  Felix is at Havelock Road
+2016-10-01 10:39:12,657 [DEBUG]  
+
+2016-10-01 10:39:12,658 [DEBUG]  John is at Empress Place
+2016-10-01 10:39:12,658 [DEBUG]  (1, 3)
+2016-10-01 10:39:12,658 [DEBUG]  John is at Havelock Road
+2016-10-01 10:39:12,658 [DEBUG]  
+
+2016-10-01 10:39:12,658 [DEBUG]  Felix is at Havelock Road
+2016-10-01 10:39:12,658 [DEBUG]  (5, 1)
+2016-10-01 10:39:12,658 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:39:12,658 [DEBUG]  
+
+2016-10-01 10:39:12,658 [DEBUG]  John is at Havelock Road
+2016-10-01 10:39:12,659 [DEBUG]  (2, 3)
+2016-10-01 10:39:12,659 [DEBUG]  John is at Shenton Way
+2016-10-01 10:39:12,659 [DEBUG]  
+
+2016-10-01 10:39:12,659 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:39:12,659 [DEBUG]  (1, 5)
+2016-10-01 10:39:12,659 [DEBUG]  Felix is at Jail
+2016-10-01 10:39:12,659 [DEBUG]  
+
+2016-10-01 10:39:12,659 [DEBUG]  John is at Shenton Way
+2016-10-01 10:39:12,659 [DEBUG]  (4, 1)
+2016-10-01 10:39:12,659 [DEBUG]  John is at Water Works
+2016-10-01 10:39:12,660 [DEBUG]  
+
+2016-10-01 10:39:12,660 [DEBUG]  Felix is at Jail
+2016-10-01 10:39:12,660 [DEBUG]  (5, 5)
+2016-10-01 10:40:11,269 [DEBUG]  John is at Go
+2016-10-01 10:40:11,269 [DEBUG]  (4, 3)
+2016-10-01 10:40:11,270 [DEBUG]  John is at Chance
+2016-10-01 10:40:11,270 [DEBUG]  Go to jail. Move directly to Jail. DO NOT PASS GO SO, DO NOT COLLECT $2,000.
+2016-10-01 10:40:11,270 [DEBUG]  
+
+2016-10-01 10:40:11,270 [DEBUG]  Felix is at Go
+2016-10-01 10:40:11,270 [DEBUG]  (1, 5)
+2016-10-01 10:40:11,270 [DEBUG]  Felix is at Farrer Road
+2016-10-01 10:40:11,270 [DEBUG]  
+
+2016-10-01 10:40:11,271 [DEBUG]  John is at Chance
+2016-10-01 10:40:11,271 [DEBUG]  (2, 5)
+2016-10-01 10:40:11,271 [DEBUG]  John is at Connaught Drive
+2016-10-01 10:40:11,271 [DEBUG]  
+
+2016-10-01 10:40:11,271 [DEBUG]  Felix is at Farrer Road
+2016-10-01 10:40:11,271 [DEBUG]  (5, 4)
+2016-10-01 10:40:11,271 [DEBUG]  Felix is at City Hall Station
+2016-10-01 10:40:11,272 [DEBUG]  
+
+2016-10-01 10:40:11,272 [DEBUG]  John is at Connaught Drive
+2016-10-01 10:40:11,272 [DEBUG]  (1, 5)
+2016-10-01 10:40:11,272 [DEBUG]  John is at Robinson Road
+2016-10-01 10:40:11,272 [DEBUG]  
+
+2016-10-01 10:40:11,272 [DEBUG]  Felix is at City Hall Station
+2016-10-01 10:40:11,272 [DEBUG]  (3, 5)
+2016-10-01 10:40:11,272 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:40:11,272 [DEBUG]  
+
+2016-10-01 10:40:11,272 [DEBUG]  John is at Robinson Road
+2016-10-01 10:40:11,273 [DEBUG]  (3, 1)
+2016-10-01 10:40:11,273 [DEBUG]  John is at Jurong East Station
+2016-10-01 10:40:11,273 [DEBUG]  
+
+2016-10-01 10:40:11,273 [DEBUG]  Felix is at Coller Quay
+2016-10-01 10:40:11,273 [DEBUG]  (5, 3)
+2016-10-01 10:40:11,273 [DEBUG]  Felix is at Orchard Road
+2016-10-01 10:40:11,273 [DEBUG]  
+
+2016-10-01 10:40:11,273 [DEBUG]  John is at Jurong East Station
+2016-10-01 10:40:11,273 [DEBUG]  (3, 4)
+2016-10-01 10:40:11,273 [DEBUG]  John is at Orchard Road
+2016-10-01 10:40:11,273 [DEBUG]  
+
+2016-10-01 10:40:11,273 [DEBUG]  Felix is at Orchard Road
+2016-10-01 10:40:11,273 [DEBUG]  (1, 2)
+2016-10-01 10:40:11,274 [DEBUG]  Felix is at Bedok Station
+2016-10-01 10:40:11,274 [DEBUG]  
+
+2016-10-01 10:50:25,559 [DEBUG]  John is at Go
+2016-10-01 10:50:25,559 [DEBUG]  (4, 3)
+2016-10-01 10:50:25,560 [DEBUG]  John is at Chance
+2016-10-01 10:50:25,560 [DEBUG]  Take a ride to CITY HALL STATION. IF you pass GO collect $2,000.
+2016-10-01 10:50:25,560 [DEBUG]  
+
+2016-10-01 10:50:25,560 [DEBUG]  Felix is at Go
+2016-10-01 10:50:25,560 [DEBUG]  (3, 2)
+2016-10-01 10:50:25,560 [DEBUG]  Felix is at Ang Mo Kio Station
+2016-10-01 10:50:25,560 [DEBUG]  
+
+2016-10-01 10:50:25,560 [DEBUG]  John is at Chance
+2016-10-01 10:50:25,560 [DEBUG]  (4, 3)
+2016-10-01 10:50:25,560 [DEBUG]  John is at Connaught Drive
+2016-10-01 10:50:25,560 [DEBUG]  
+
+2016-10-01 10:50:25,560 [DEBUG]  Felix is at Ang Mo Kio Station
+2016-10-01 10:50:25,560 [DEBUG]  (3, 2)
+2016-10-01 10:50:25,561 [DEBUG]  Felix is at Jail
+2016-10-01 10:50:25,561 [DEBUG]  
+
+2016-10-01 10:50:25,561 [DEBUG]  John is at Connaught Drive
+2016-10-01 10:50:25,561 [DEBUG]  (5, 3)
+2016-10-01 10:50:25,561 [DEBUG]  John is at Shenton Way
+2016-10-01 10:50:25,561 [DEBUG]  
+
+2016-10-01 10:50:25,561 [DEBUG]  Felix is at Jail
+2016-10-01 10:50:25,561 [DEBUG]  (1, 3)
+2016-10-01 10:50:25,561 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:50:25,561 [DEBUG]  
+
+2016-10-01 10:50:25,561 [DEBUG]  John is at Shenton Way
+2016-10-01 10:50:25,561 [DEBUG]  (3, 1)
+2016-10-01 10:50:25,561 [DEBUG]  John is at Emerald Hill
+2016-10-01 10:50:25,561 [DEBUG]  
+
+2016-10-01 10:50:25,561 [DEBUG]  Felix is at Connaught Drive
+2016-10-01 10:50:25,562 [DEBUG]  (4, 1)
+2016-10-01 10:50:25,562 [DEBUG]  Felix is at Free Parking
+2016-10-01 10:50:25,562 [DEBUG]  
+
+2016-10-01 10:50:25,562 [DEBUG]  John is at Emerald Hill
+2016-10-01 10:50:25,562 [DEBUG]  (1, 5)
+2016-10-01 10:50:25,562 [DEBUG]  John is at Community Chest
+2016-10-01 10:50:25,562 [DEBUG]  
+
+2016-10-01 10:50:25,562 [DEBUG]  Felix is at Free Parking
+2016-10-01 10:50:25,562 [DEBUG]  (5, 2)
+2016-10-01 10:50:25,562 [DEBUG]  Felix is at Emerald Hill
+2016-10-01 10:50:25,562 [DEBUG]  
+
+2016-10-01 10:59:32,755 [DEBUG]  John with $15000 is at Go
+2016-10-01 10:59:32,756 [DEBUG]  (3, 1)
+2016-10-01 10:59:32,756 [DEBUG]  John with $15000 is at Income Tax
+2016-10-01 10:59:32,756 [DEBUG]  
+
+2016-10-01 10:59:32,756 [DEBUG]  Felix with $15000 is at Go
+2016-10-01 10:59:32,756 [DEBUG]  (2, 3)
+2016-10-01 10:59:32,756 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-01 10:59:32,756 [DEBUG]  
+
+2016-10-01 10:59:32,756 [DEBUG]  John with $15000 is at Income Tax
+2016-10-01 10:59:32,757 [DEBUG]  (5, 2)
+2016-10-01 10:59:32,757 [DEBUG]  John with $15000 is at Battery Road
+2016-10-01 10:59:32,757 [DEBUG]  
+
+2016-10-01 10:59:32,757 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-01 10:59:32,757 [DEBUG]  (5, 3)
+2016-10-01 10:59:32,757 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-01 10:59:32,757 [DEBUG]  
+
+2016-10-01 10:59:32,757 [DEBUG]  John with $15000 is at Battery Road
+2016-10-01 10:59:32,757 [DEBUG]  (5, 4)
+2016-10-01 10:59:32,757 [DEBUG]  John with $15000 is at Robinson Road
+2016-10-01 10:59:32,758 [DEBUG]  
+
+2016-10-01 10:59:32,758 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-01 10:59:32,758 [DEBUG]  (3, 5)
+2016-10-01 10:59:32,758 [DEBUG]  Felix with $15000 is at Chance
+2016-10-01 10:59:32,758 [DEBUG]  Go to jail. Move directly to Jail. DO NOT PASS GO SO, DO NOT COLLECT $2,000.
+2016-10-01 10:59:32,758 [DEBUG]  
+
+2016-10-01 10:59:32,758 [DEBUG]  John with $15000 is at Robinson Road
+2016-10-01 10:59:32,758 [DEBUG]  (3, 3)
+2016-10-01 10:59:32,758 [DEBUG]  John with $15000 is at Emerald Hill
+2016-10-01 10:59:32,758 [DEBUG]  
+
+2016-10-01 10:59:32,758 [DEBUG]  Felix with $15000 is at Chance
+2016-10-01 10:59:32,759 [DEBUG]  (4, 3)
+2016-10-01 10:59:32,759 [DEBUG]  Felix with $15000 is at Raffles City
+2016-10-01 10:59:32,759 [DEBUG]  
+
+2016-10-01 10:59:32,759 [DEBUG]  John with $15000 is at Emerald Hill
+2016-10-01 10:59:32,759 [DEBUG]  (1, 2)
+2016-10-01 10:59:32,759 [DEBUG]  John with $15000 is at Jail
+2016-10-01 10:59:32,759 [DEBUG]  
+
+2016-10-01 10:59:32,759 [DEBUG]  Felix with $15000 is at Raffles City
+2016-10-01 10:59:32,759 [DEBUG]  (1, 1)
+2016-10-01 10:59:32,759 [DEBUG]  Felix with $15000 is at Tanglin Road
+2016-10-01 10:59:32,760 [DEBUG]  
+
+2016-10-01 11:00:26,098 [DEBUG]  John with $15000 is at Go
+2016-10-01 11:00:26,098 [DEBUG]  (4, 1)
+2016-10-01 11:00:26,098 [DEBUG]  John with $15000 is at Ang Mo Kio Station
+2016-10-01 11:00:26,098 [DEBUG]  
+
+2016-10-01 11:00:26,098 [DEBUG]  Felix with $15000 is at Go
+2016-10-01 11:00:26,098 [DEBUG]  (4, 1)
+2016-10-01 11:00:26,098 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-01 11:00:26,098 [DEBUG]  
+
+2016-10-01 11:00:26,098 [DEBUG]  John with $15000 is at Ang Mo Kio Station
+2016-10-01 11:00:26,099 [DEBUG]  (5, 5)
+2016-10-01 11:00:26,099 [DEBUG]  John with $15000 is at City Hall Station
+2016-10-01 11:00:26,099 [DEBUG]  
+
+2016-10-01 11:00:26,099 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-01 11:00:26,099 [DEBUG]  (4, 2)
+2016-10-01 11:00:26,099 [DEBUG]  Felix with $15000 is at Battery Road
+2016-10-01 11:00:26,099 [DEBUG]  
+
+2016-10-01 11:00:26,099 [DEBUG]  John with $15000 is at City Hall Station
+2016-10-01 11:00:26,099 [DEBUG]  (5, 1)
+2016-10-01 11:00:26,099 [DEBUG]  John with $15000 is at Chance
+2016-10-01 11:00:26,099 [DEBUG]  Go back three spaces.
+2016-10-01 11:00:26,099 [DEBUG]  
+
+2016-10-01 11:00:26,100 [DEBUG]  Felix with $15000 is at Battery Road
+2016-10-01 11:00:26,100 [DEBUG]  (4, 4)
+2016-10-01 11:00:26,100 [DEBUG]  Felix with $15000 is at Free Parking
+2016-10-01 11:00:26,100 [DEBUG]  
+
+2016-10-01 11:00:26,100 [DEBUG]  John with $15000 is at Chance
+2016-10-01 11:00:26,100 [DEBUG]  (1, 2)
+2016-10-01 11:00:26,100 [DEBUG]  John with $15000 is at Jurong East Station
+2016-10-01 11:00:26,100 [DEBUG]  
+
+2016-10-01 11:00:26,100 [DEBUG]  Felix with $15000 is at Free Parking
+2016-10-01 11:00:26,100 [DEBUG]  (2, 3)
+2016-10-01 11:00:26,100 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-01 11:00:26,100 [DEBUG]  
+
+2016-10-01 11:00:26,100 [DEBUG]  John with $15000 is at Jurong East Station
+2016-10-01 11:00:26,100 [DEBUG]  (4, 3)
+2016-10-01 11:00:26,100 [DEBUG]  John with $15000 is at Orchard Road
+2016-10-01 11:00:26,100 [DEBUG]  
+
+2016-10-01 11:00:26,100 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-01 11:00:26,101 [DEBUG]  (5, 2)
+2016-10-01 11:00:26,101 [DEBUG]  Felix with $15000 is at Orchard Road
+2016-10-01 11:00:26,101 [DEBUG]  
+
+2016-10-01 11:00:36,907 [DEBUG]  John with $15000 is at Go
+2016-10-01 11:00:36,907 [DEBUG]  (4, 4)
+2016-10-01 11:00:36,907 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-01 11:00:36,907 [DEBUG]  
+
+2016-10-01 11:00:36,907 [DEBUG]  Felix with $15000 is at Go
+2016-10-01 11:00:36,907 [DEBUG]  (3, 1)
+2016-10-01 11:00:36,907 [DEBUG]  Felix with $15000 is at Income Tax
+2016-10-01 11:00:36,907 [DEBUG]  
+
+2016-10-01 11:00:36,907 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-01 11:00:36,908 [DEBUG]  (4, 5)
+2016-10-01 11:00:36,908 [DEBUG]  John with $15000 is at Havelock Road
+2016-10-01 11:00:36,908 [DEBUG]  
+
+2016-10-01 11:00:36,908 [DEBUG]  Felix with $15000 is at Income Tax
+2016-10-01 11:00:36,908 [DEBUG]  (2, 3)
+2016-10-01 11:00:36,908 [DEBUG]  Felix with $15000 is at Thomson Road
+2016-10-01 11:00:36,908 [DEBUG]  
+
+2016-10-01 11:00:36,908 [DEBUG]  John with $15000 is at Havelock Road
+2016-10-01 11:00:36,908 [DEBUG]  (1, 1)
+2016-10-01 11:00:36,908 [DEBUG]  John with $15000 is at Free Parking
+2016-10-01 11:00:36,909 [DEBUG]  
+
+2016-10-01 11:00:36,909 [DEBUG]  Felix with $15000 is at Thomson Road
+2016-10-01 11:00:36,909 [DEBUG]  (3, 5)
+2016-10-01 11:00:36,909 [DEBUG]  Felix with $15000 is at Havelock Road
+2016-10-01 11:00:36,909 [DEBUG]  
+
+2016-10-01 11:00:36,909 [DEBUG]  John with $15000 is at Free Parking
+2016-10-01 11:00:36,909 [DEBUG]  (4, 3)
+2016-10-01 11:00:36,909 [DEBUG]  John with $15000 is at Emerald Hill
+2016-10-01 11:00:36,909 [DEBUG]  
+
+2016-10-01 11:00:36,909 [DEBUG]  Felix with $15000 is at Havelock Road
+2016-10-01 11:00:36,909 [DEBUG]  (2, 5)
+2016-10-01 11:00:36,910 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-01 11:00:36,910 [DEBUG]  
+
+2016-10-01 11:00:36,910 [DEBUG]  John with $15000 is at Emerald Hill
+2016-10-01 11:00:36,910 [DEBUG]  (3, 1)
+2016-10-01 11:00:36,910 [DEBUG]  John with $15000 is at Tanglin Road
+2016-10-01 11:00:36,910 [DEBUG]  
+
+2016-10-01 11:00:36,910 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-01 11:00:36,910 [DEBUG]  (3, 5)
+2016-10-01 11:00:36,910 [DEBUG]  Felix with $15000 is at Community Chest
+2016-10-01 11:00:36,910 [DEBUG]  
+
+2016-10-01 11:01:36,814 [DEBUG]  John with $15000 is at Go
+2016-10-01 11:01:36,815 [DEBUG]  (3, 5)
+2016-10-01 11:01:36,816 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-01 11:01:36,816 [DEBUG]  
+
+2016-10-01 11:01:36,817 [DEBUG]  Felix with $15000 is at Go
+2016-10-01 11:01:36,817 [DEBUG]  (2, 5)
+2016-10-01 11:01:36,817 [DEBUG]  Felix with $15000 is at Chance
+2016-10-01 11:01:36,817 [DEBUG]  Pay school fees of $1,500.
+2016-10-01 11:01:36,817 [DEBUG]  
+
+2016-10-01 11:01:36,817 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-01 11:01:36,818 [DEBUG]  (1, 5)
+2016-10-01 11:01:36,818 [DEBUG]  John with $15000 is at Connaught Drive
+2016-10-01 11:01:36,818 [DEBUG]  
+
+2016-10-01 11:01:36,818 [DEBUG]  Felix with $13500 is at Chance
+2016-10-01 11:01:36,818 [DEBUG]  (4, 1)
+2016-10-01 11:01:36,818 [DEBUG]  Felix with $13500 is at Empress Place
+2016-10-01 11:01:36,819 [DEBUG]  
+
+2016-10-01 11:01:36,819 [DEBUG]  John with $15000 is at Connaught Drive
+2016-10-01 11:01:36,819 [DEBUG]  (5, 3)
+2016-10-01 11:01:36,819 [DEBUG]  John with $15000 is at Shenton Way
+2016-10-01 11:01:36,819 [DEBUG]  
+
+2016-10-01 11:01:36,819 [DEBUG]  Felix with $13500 is at Empress Place
+2016-10-01 11:01:36,820 [DEBUG]  (3, 1)
+2016-10-01 11:01:36,820 [DEBUG]  Felix with $13500 is at Colombo Court
+2016-10-01 11:01:36,820 [DEBUG]  
+
+2016-10-01 11:01:36,820 [DEBUG]  John with $15000 is at Shenton Way
+2016-10-01 11:01:36,820 [DEBUG]  (3, 4)
+2016-10-01 11:01:36,820 [DEBUG]  John with $15000 is at Jail
+2016-10-01 11:01:36,820 [DEBUG]  
+
+2016-10-01 11:01:36,820 [DEBUG]  Felix with $13500 is at Colombo Court
+2016-10-01 11:01:36,821 [DEBUG]  (2, 2)
+2016-10-01 11:01:36,821 [DEBUG]  Felix with $13500 is at Robinson Road
+2016-10-01 11:01:36,821 [DEBUG]  
+
+2016-10-01 11:01:36,821 [DEBUG]  John with $15000 is at Jail
+2016-10-01 11:01:36,821 [DEBUG]  (4, 5)
+2016-10-01 11:01:36,821 [DEBUG]  John with $15000 is at Queen Astrid Park
+2016-10-01 11:01:36,821 [DEBUG]  
+
+2016-10-01 11:01:36,821 [DEBUG]  Felix with $13500 is at Robinson Road
+2016-10-01 11:01:36,821 [DEBUG]  (1, 3)
+2016-10-01 11:01:36,822 [DEBUG]  Felix with $13500 is at Jurong East Station
+2016-10-01 11:01:36,822 [DEBUG]  
+
+2016-10-01 11:04:51,733 [DEBUG]  John with $15000 is at Go
+2016-10-01 11:04:51,734 [DEBUG]  (1, 2)
+2016-10-01 11:04:51,737 [DEBUG]  John with $15000 is at Serangoon Road
+2016-10-01 11:04:51,737 [DEBUG]  
+
+2016-10-01 11:04:51,737 [DEBUG]  Felix with $15000 is at Go
+2016-10-01 11:04:51,737 [DEBUG]  (2, 2)
+2016-10-01 11:04:51,737 [DEBUG]  Felix with $15000 is at Income Tax
+2016-10-01 11:04:51,737 [DEBUG]  
+
+2016-10-01 11:04:51,738 [DEBUG]  John with $15000 is at Serangoon Road
+2016-10-01 11:04:51,738 [DEBUG]  (2, 4)
+2016-10-01 11:04:51,738 [DEBUG]  John with $15000 is at Thomson Road
+2016-10-01 11:04:51,738 [DEBUG]  
+
+2016-10-01 11:04:51,738 [DEBUG]  Felix with $15000 is at Income Tax
+2016-10-01 11:04:51,738 [DEBUG]  (1, 1)
+2016-10-01 11:04:51,739 [DEBUG]  Felix with $15000 is at Farrer Road
+2016-10-01 11:04:51,739 [DEBUG]  
+
+2016-10-01 11:04:51,739 [DEBUG]  John with $15000 is at Thomson Road
+2016-10-01 11:04:51,739 [DEBUG]  (1, 1)
+2016-10-01 11:04:51,739 [DEBUG]  John with $15000 is at Battery Road
+2016-10-01 11:04:51,739 [DEBUG]  
+
+2016-10-01 11:04:51,739 [DEBUG]  Felix with $15000 is at Farrer Road
+2016-10-01 11:04:51,739 [DEBUG]  (5, 4)
+2016-10-01 11:04:51,739 [DEBUG]  Felix with $15000 is at City Hall Station
+2016-10-01 11:04:51,740 [DEBUG]  
+
+2016-10-01 11:04:51,740 [DEBUG]  John with $15000 is at Battery Road
+2016-10-01 11:04:51,740 [DEBUG]  (4, 2)
+2016-10-01 11:04:51,740 [DEBUG]  John with $15000 is at Havelock Road
+2016-10-01 11:04:51,740 [DEBUG]  
+
+2016-10-01 11:04:51,740 [DEBUG]  Felix with $15000 is at City Hall Station
+2016-10-01 11:04:51,740 [DEBUG]  (4, 1)
+2016-10-01 11:04:51,740 [DEBUG]  Felix with $15000 is at Robinson Road
+2016-10-01 11:04:51,740 [DEBUG]  
+
+2016-10-01 11:04:51,740 [DEBUG]  John with $15000 is at Havelock Road
+2016-10-01 11:04:51,740 [DEBUG]  (1, 2)
+2016-10-01 11:04:51,740 [DEBUG]  John with $15000 is at Robinson Road
+2016-10-01 11:04:51,741 [DEBUG]  
+
+2016-10-01 11:04:51,741 [DEBUG]  Felix with $15000 is at Robinson Road
+2016-10-01 11:04:51,741 [DEBUG]  (1, 2)
+2016-10-01 11:04:51,741 [DEBUG]  Felix with $15000 is at Coller Quay
+2016-10-01 11:04:51,741 [DEBUG]  
+
+2016-10-01 11:05:00,997 [DEBUG]  John with $15000 is at Go
+2016-10-01 11:05:00,997 [DEBUG]  (2, 5)
+2016-10-01 11:05:00,997 [DEBUG]  John with $15000 is at Chance
+2016-10-01 11:05:00,997 [DEBUG]  Pay school fees of $1,500.
+2016-10-01 11:05:00,997 [DEBUG]  John with $13500 is at Chance
+2016-10-01 11:05:00,997 [DEBUG]  
+
+2016-10-01 11:05:00,997 [DEBUG]  Felix with $15000 is at Go
+2016-10-01 11:05:00,997 [DEBUG]  (4, 1)
+2016-10-01 11:05:00,997 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-01 11:05:00,997 [DEBUG]  
+
+2016-10-01 11:05:00,997 [DEBUG]  John with $13500 is at Chance
+2016-10-01 11:05:00,997 [DEBUG]  (2, 3)
+2016-10-01 11:05:00,997 [DEBUG]  John with $13500 is at Empress Place
+2016-10-01 11:05:00,997 [DEBUG]  
+
+2016-10-01 11:05:00,997 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-01 11:05:00,997 [DEBUG]  (4, 5)
+2016-10-01 11:05:00,998 [DEBUG]  Felix with $15000 is at Connaught Drive
+2016-10-01 11:05:00,998 [DEBUG]  
+
+2016-10-01 11:05:00,998 [DEBUG]  John with $13500 is at Empress Place
+2016-10-01 11:05:00,998 [DEBUG]  (5, 2)
+2016-10-01 11:05:00,998 [DEBUG]  John with $13500 is at Free Parking
+2016-10-01 11:05:00,998 [DEBUG]  
+
+2016-10-01 11:05:00,998 [DEBUG]  Felix with $15000 is at Connaught Drive
+2016-10-01 11:05:00,998 [DEBUG]  (3, 2)
+2016-10-01 11:05:00,998 [DEBUG]  Felix with $15000 is at Free Parking
+2016-10-01 11:05:00,998 [DEBUG]  
+
+2016-10-01 11:05:00,998 [DEBUG]  John with $13500 is at Free Parking
+2016-10-01 11:05:00,998 [DEBUG]  (2, 5)
+2016-10-01 11:05:00,998 [DEBUG]  John with $13500 is at Emerald Hill
+2016-10-01 11:05:00,998 [DEBUG]  
+
+2016-10-01 11:05:00,998 [DEBUG]  Felix with $15000 is at Free Parking
+2016-10-01 11:05:00,999 [DEBUG]  (4, 1)
+2016-10-01 11:05:00,999 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-01 11:05:00,999 [DEBUG]  
+
+2016-10-01 11:05:00,999 [DEBUG]  John with $13500 is at Emerald Hill
+2016-10-01 11:05:00,999 [DEBUG]  (5, 2)
+2016-10-01 11:05:00,999 [DEBUG]  John with $13500 is at Scotts Road
+2016-10-01 11:05:00,999 [DEBUG]  
+
+2016-10-01 11:05:00,999 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-01 11:05:00,999 [DEBUG]  (1, 5)
+2016-10-01 11:05:00,999 [DEBUG]  Felix with $15000 is at Tanglin Road
+2016-10-01 11:05:00,999 [DEBUG]  
+
