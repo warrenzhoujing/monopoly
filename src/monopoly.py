@@ -27,7 +27,7 @@ chance_cards_list = [
     "Drunk in charge. $200 fine", "Go to jail. Move directly to Jail. DO NOT PASS GO SO, DO NOT COLLECT $2,000."]
 shuffle(chance_cards_list)
 #chance_cards_deque = deque(chance_cards_list)
-chance_cards_deque = deque(["Pay school fees of $1,500."])
+chance_cards_deque = deque(["Bank pays you dividend of $500."])
 
 
 class Player:
@@ -94,6 +94,9 @@ def check_at_chance(player):
         chance_cards_deque.append(chance_top_card)
         if chance_top_card == 'Pay school fees of $1,500.':
             player.pay(1500)
+            logging.debug(str(player))
+        elif chance_top_card == 'Bank pays you dividend of $500.':
+            player.pay(-500)
             logging.debug(str(player))
 
 

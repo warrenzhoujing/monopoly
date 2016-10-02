@@ -1297,3 +1297,307 @@
 2016-10-01 11:05:00,999 [DEBUG]  Felix with $15000 is at Tanglin Road
 2016-10-01 11:05:00,999 [DEBUG]  
 
+2016-10-02 10:25:33,064 [DEBUG]  John with $15000 is at Go
+2016-10-02 10:25:33,065 [DEBUG]  (5, 2)
+2016-10-02 10:25:33,065 [DEBUG]  John with $15000 is at Chance
+2016-10-02 10:25:33,065 [DEBUG]  Bank pays you dividend of $500.
+2016-10-02 10:25:33,065 [DEBUG]  
+
+2016-10-02 10:25:33,065 [DEBUG]  Felix with $15000 is at Go
+2016-10-02 10:25:33,065 [DEBUG]  (2, 4)
+2016-10-02 10:25:33,065 [DEBUG]  Felix with $15000 is at Farrer Road
+2016-10-02 10:25:33,065 [DEBUG]  
+
+2016-10-02 10:25:33,065 [DEBUG]  John with $15000 is at Chance
+2016-10-02 10:25:33,066 [DEBUG]  (5, 5)
+2016-10-02 10:25:33,066 [DEBUG]  John with $15000 is at Havelock Road
+2016-10-02 10:25:33,066 [DEBUG]  
+
+2016-10-02 10:25:33,066 [DEBUG]  Felix with $15000 is at Farrer Road
+2016-10-02 10:25:33,066 [DEBUG]  (4, 1)
+2016-10-02 10:25:33,066 [DEBUG]  Felix with $15000 is at Battery Road
+2016-10-02 10:25:33,066 [DEBUG]  
+
+2016-10-02 10:25:33,066 [DEBUG]  John with $15000 is at Havelock Road
+2016-10-02 10:25:33,066 [DEBUG]  (4, 2)
+2016-10-02 10:25:33,066 [DEBUG]  John with $15000 is at Coller Quay
+2016-10-02 10:25:33,066 [DEBUG]  
+
+2016-10-02 10:25:33,066 [DEBUG]  Felix with $15000 is at Battery Road
+2016-10-02 10:25:33,067 [DEBUG]  (2, 5)
+2016-10-02 10:25:33,067 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:25:33,067 [DEBUG]  
+
+2016-10-02 10:25:33,067 [DEBUG]  John with $15000 is at Coller Quay
+2016-10-02 10:25:33,067 [DEBUG]  (5, 3)
+2016-10-02 10:25:33,067 [DEBUG]  John with $15000 is at Orchard Road
+2016-10-02 10:25:33,067 [DEBUG]  
+
+2016-10-02 10:25:33,067 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:25:33,067 [DEBUG]  (4, 5)
+2016-10-02 10:25:33,067 [DEBUG]  Felix with $15000 is at Water Works
+2016-10-02 10:25:33,067 [DEBUG]  
+
+2016-10-02 10:25:33,068 [DEBUG]  John with $15000 is at Orchard Road
+2016-10-02 10:25:33,068 [DEBUG]  (1, 5)
+2016-10-02 10:25:33,068 [DEBUG]  John with $15000 is at Super Tax
+2016-10-02 10:25:33,068 [DEBUG]  
+
+2016-10-02 10:25:33,069 [DEBUG]  Felix with $15000 is at Water Works
+2016-10-02 10:25:33,069 [DEBUG]  (1, 4)
+2016-10-02 10:25:33,069 [DEBUG]  Felix with $15000 is at Community Chest
+2016-10-02 10:25:33,069 [DEBUG]  
+
+2016-10-02 10:26:30,776 [DEBUG]  John with $15000 is at Go
+2016-10-02 10:26:30,777 [DEBUG]  (5, 3)
+2016-10-02 10:26:30,777 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:26:30,777 [DEBUG]  
+
+2016-10-02 10:26:30,777 [DEBUG]  Felix with $15000 is at Go
+2016-10-02 10:26:30,777 [DEBUG]  (2, 2)
+2016-10-02 10:26:30,777 [DEBUG]  Felix with $15000 is at Income Tax
+2016-10-02 10:26:30,777 [DEBUG]  
+
+2016-10-02 10:26:30,777 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:26:30,777 [DEBUG]  (1, 3)
+2016-10-02 10:26:30,778 [DEBUG]  John with $15000 is at Empress Place
+2016-10-02 10:26:30,778 [DEBUG]  
+
+2016-10-02 10:26:30,778 [DEBUG]  Felix with $15000 is at Income Tax
+2016-10-02 10:26:30,778 [DEBUG]  (4, 4)
+2016-10-02 10:26:30,778 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:26:30,778 [DEBUG]  
+
+2016-10-02 10:26:30,778 [DEBUG]  John with $15000 is at Empress Place
+2016-10-02 10:26:30,779 [DEBUG]  (5, 3)
+2016-10-02 10:26:30,780 [DEBUG]  John with $15000 is at Robinson Road
+2016-10-02 10:26:30,780 [DEBUG]  
+
+2016-10-02 10:26:30,780 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:26:30,780 [DEBUG]  (4, 2)
+2016-10-02 10:26:30,780 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:26:30,781 [DEBUG]  
+
+2016-10-02 10:26:30,781 [DEBUG]  John with $15000 is at Robinson Road
+2016-10-02 10:26:30,781 [DEBUG]  (4, 3)
+2016-10-02 10:26:30,781 [DEBUG]  John with $15000 is at Water Works
+2016-10-02 10:26:30,781 [DEBUG]  
+
+2016-10-02 10:26:30,781 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:26:30,781 [DEBUG]  (5, 3)
+2016-10-02 10:26:30,781 [DEBUG]  Felix with $15000 is at Emerald Hill
+2016-10-02 10:26:30,783 [DEBUG]  
+
+2016-10-02 10:26:30,783 [DEBUG]  John with $15000 is at Water Works
+2016-10-02 10:26:30,783 [DEBUG]  (2, 4)
+2016-10-02 10:26:30,784 [DEBUG]  John with $15000 is at Scotts Road
+2016-10-02 10:26:30,784 [DEBUG]  
+
+2016-10-02 10:26:30,784 [DEBUG]  Felix with $15000 is at Emerald Hill
+2016-10-02 10:26:30,784 [DEBUG]  (1, 3)
+2016-10-02 10:26:30,784 [DEBUG]  Felix with $15000 is at Tanglin Road
+2016-10-02 10:26:30,784 [DEBUG]  
+
+2016-10-02 10:26:38,097 [DEBUG]  John with $15000 is at Go
+2016-10-02 10:26:38,098 [DEBUG]  (3, 3)
+2016-10-02 10:26:38,098 [DEBUG]  John with $15000 is at Farrer Road
+2016-10-02 10:26:38,098 [DEBUG]  
+
+2016-10-02 10:26:38,098 [DEBUG]  Felix with $15000 is at Go
+2016-10-02 10:26:38,098 [DEBUG]  (3, 5)
+2016-10-02 10:26:38,098 [DEBUG]  Felix with $15000 is at Braddell Road
+2016-10-02 10:26:38,098 [DEBUG]  
+
+2016-10-02 10:26:38,098 [DEBUG]  John with $15000 is at Farrer Road
+2016-10-02 10:26:38,098 [DEBUG]  (1, 1)
+2016-10-02 10:26:38,099 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:26:38,099 [DEBUG]  
+
+2016-10-02 10:26:38,099 [DEBUG]  Felix with $15000 is at Braddell Road
+2016-10-02 10:26:38,099 [DEBUG]  (4, 4)
+2016-10-02 10:26:38,099 [DEBUG]  Felix with $15000 is at Colombo Court
+2016-10-02 10:26:38,099 [DEBUG]  
+
+2016-10-02 10:26:38,099 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:26:38,100 [DEBUG]  (1, 3)
+2016-10-02 10:26:38,100 [DEBUG]  John with $15000 is at Empress Place
+2016-10-02 10:26:38,100 [DEBUG]  
+
+2016-10-02 10:26:38,100 [DEBUG]  Felix with $15000 is at Colombo Court
+2016-10-02 10:26:38,100 [DEBUG]  (1, 1)
+2016-10-02 10:26:38,100 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:26:38,100 [DEBUG]  
+
+2016-10-02 10:26:38,101 [DEBUG]  John with $15000 is at Empress Place
+2016-10-02 10:26:38,101 [DEBUG]  (1, 2)
+2016-10-02 10:26:38,101 [DEBUG]  John with $15000 is at City Hall Station
+2016-10-02 10:26:38,101 [DEBUG]  
+
+2016-10-02 10:26:38,101 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:26:38,101 [DEBUG]  (5, 1)
+2016-10-02 10:26:38,101 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-02 10:26:38,101 [DEBUG]  
+
+2016-10-02 10:26:38,102 [DEBUG]  John with $15000 is at City Hall Station
+2016-10-02 10:26:38,102 [DEBUG]  (3, 3)
+2016-10-02 10:26:38,102 [DEBUG]  John with $15000 is at Chance
+2016-10-02 10:26:38,102 [DEBUG]  Bank pays you dividend of $500.
+2016-10-02 10:26:38,102 [DEBUG]  
+
+2016-10-02 10:26:38,102 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-02 10:26:38,102 [DEBUG]  (2, 2)
+2016-10-02 10:26:38,103 [DEBUG]  Felix with $15000 is at Raffles City
+2016-10-02 10:26:38,103 [DEBUG]  
+
+2016-10-02 10:26:48,661 [DEBUG]  John with $15000 is at Go
+2016-10-02 10:26:48,662 [DEBUG]  (4, 5)
+2016-10-02 10:26:48,662 [DEBUG]  John with $15000 is at Thomson Road
+2016-10-02 10:26:48,662 [DEBUG]  
+
+2016-10-02 10:26:48,662 [DEBUG]  Felix with $15000 is at Go
+2016-10-02 10:26:48,663 [DEBUG]  (4, 5)
+2016-10-02 10:26:48,663 [DEBUG]  Felix with $15000 is at Thomson Road
+2016-10-02 10:26:48,663 [DEBUG]  
+
+2016-10-02 10:26:48,663 [DEBUG]  John with $15000 is at Thomson Road
+2016-10-02 10:26:48,663 [DEBUG]  (5, 2)
+2016-10-02 10:26:48,663 [DEBUG]  John with $15000 is at Colombo Court
+2016-10-02 10:26:48,663 [DEBUG]  
+
+2016-10-02 10:26:48,663 [DEBUG]  Felix with $15000 is at Thomson Road
+2016-10-02 10:26:48,664 [DEBUG]  (2, 1)
+2016-10-02 10:26:48,664 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:26:48,664 [DEBUG]  
+
+2016-10-02 10:26:48,664 [DEBUG]  John with $15000 is at Colombo Court
+2016-10-02 10:26:48,664 [DEBUG]  (5, 1)
+2016-10-02 10:26:48,666 [DEBUG]  John with $15000 is at Shenton Way
+2016-10-02 10:26:48,666 [DEBUG]  
+
+2016-10-02 10:26:48,667 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:26:48,667 [DEBUG]  (3, 1)
+2016-10-02 10:26:48,667 [DEBUG]  Felix with $15000 is at Colombo Court
+2016-10-02 10:26:48,667 [DEBUG]  
+
+2016-10-02 10:26:48,667 [DEBUG]  John with $15000 is at Shenton Way
+2016-10-02 10:26:48,668 [DEBUG]  (4, 2)
+2016-10-02 10:26:48,668 [DEBUG]  John with $15000 is at Raffles City
+2016-10-02 10:26:48,668 [DEBUG]  
+
+2016-10-02 10:26:48,668 [DEBUG]  Felix with $15000 is at Colombo Court
+2016-10-02 10:26:48,669 [DEBUG]  (5, 1)
+2016-10-02 10:26:48,669 [DEBUG]  Felix with $15000 is at Shenton Way
+2016-10-02 10:26:48,669 [DEBUG]  
+
+2016-10-02 10:26:48,669 [DEBUG]  John with $15000 is at Raffles City
+2016-10-02 10:26:48,669 [DEBUG]  (4, 1)
+2016-10-02 10:26:48,670 [DEBUG]  John with $15000 is at Scotts Road
+2016-10-02 10:26:48,670 [DEBUG]  
+
+2016-10-02 10:26:48,670 [DEBUG]  Felix with $15000 is at Shenton Way
+2016-10-02 10:26:48,670 [DEBUG]  (3, 4)
+2016-10-02 10:26:48,671 [DEBUG]  Felix with $15000 is at Jail
+2016-10-02 10:26:48,671 [DEBUG]  
+
+2016-10-02 10:27:16,107 [DEBUG]  John with $15000 is at Go
+2016-10-02 10:27:16,107 [DEBUG]  (2, 1)
+2016-10-02 10:27:16,108 [DEBUG]  John with $15000 is at Serangoon Road
+2016-10-02 10:27:16,108 [DEBUG]  
+
+2016-10-02 10:27:16,109 [DEBUG]  Felix with $15000 is at Go
+2016-10-02 10:27:16,109 [DEBUG]  (4, 2)
+2016-10-02 10:27:16,109 [DEBUG]  Felix with $15000 is at Farrer Road
+2016-10-02 10:27:16,109 [DEBUG]  
+
+2016-10-02 10:27:16,109 [DEBUG]  John with $15000 is at Serangoon Road
+2016-10-02 10:27:16,109 [DEBUG]  (1, 4)
+2016-10-02 10:27:16,109 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:27:16,109 [DEBUG]  
+
+2016-10-02 10:27:16,109 [DEBUG]  Felix with $15000 is at Farrer Road
+2016-10-02 10:27:16,109 [DEBUG]  (4, 2)
+2016-10-02 10:27:16,110 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:27:16,110 [DEBUG]  
+
+2016-10-02 10:27:16,110 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:27:16,110 [DEBUG]  (5, 3)
+2016-10-02 10:27:16,110 [DEBUG]  John with $15000 is at Colombo Court
+2016-10-02 10:27:16,110 [DEBUG]  
+
+2016-10-02 10:27:16,110 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:27:16,110 [DEBUG]  (2, 4)
+2016-10-02 10:27:16,110 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:27:16,110 [DEBUG]  
+
+2016-10-02 10:27:16,110 [DEBUG]  John with $15000 is at Colombo Court
+2016-10-02 10:27:16,111 [DEBUG]  (1, 2)
+2016-10-02 10:27:16,112 [DEBUG]  John with $15000 is at Free Parking
+2016-10-02 10:27:16,112 [DEBUG]  
+
+2016-10-02 10:27:16,112 [DEBUG]  Felix with $15000 is at ST Andrews Road
+2016-10-02 10:27:16,112 [DEBUG]  (1, 5)
+2016-10-02 10:27:16,113 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-02 10:27:16,113 [DEBUG]  
+
+2016-10-02 10:27:16,113 [DEBUG]  John with $15000 is at Free Parking
+2016-10-02 10:27:16,113 [DEBUG]  (4, 5)
+2016-10-02 10:27:16,113 [DEBUG]  John with $15000 is at Raffles City
+2016-10-02 10:27:16,113 [DEBUG]  
+
+2016-10-02 10:27:16,113 [DEBUG]  Felix with $15000 is at Jurong East Station
+2016-10-02 10:27:16,113 [DEBUG]  (2, 5)
+2016-10-02 10:27:16,113 [DEBUG]  Felix with $15000 is at Orchard Road
+2016-10-02 10:27:16,113 [DEBUG]  
+
+2016-10-02 10:27:21,219 [DEBUG]  John with $15000 is at Go
+2016-10-02 10:27:21,220 [DEBUG]  (5, 3)
+2016-10-02 10:27:21,220 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:27:21,220 [DEBUG]  
+
+2016-10-02 10:27:21,220 [DEBUG]  Felix with $15000 is at Go
+2016-10-02 10:27:21,220 [DEBUG]  (4, 1)
+2016-10-02 10:27:21,220 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-02 10:27:21,220 [DEBUG]  
+
+2016-10-02 10:27:21,220 [DEBUG]  John with $15000 is at Braddell Road
+2016-10-02 10:27:21,220 [DEBUG]  (2, 5)
+2016-10-02 10:27:21,220 [DEBUG]  John with $15000 is at City Hall Station
+2016-10-02 10:27:21,220 [DEBUG]  
+
+2016-10-02 10:27:21,220 [DEBUG]  Felix with $15000 is at Ang Mo Kio Station
+2016-10-02 10:27:21,220 [DEBUG]  (3, 5)
+2016-10-02 10:27:21,221 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:27:21,221 [DEBUG]  
+
+2016-10-02 10:27:21,221 [DEBUG]  John with $15000 is at City Hall Station
+2016-10-02 10:27:21,221 [DEBUG]  (3, 3)
+2016-10-02 10:27:21,221 [DEBUG]  John with $15000 is at Chance
+2016-10-02 10:27:21,221 [DEBUG]  Bank pays you dividend of $500.
+2016-10-02 10:27:21,221 [DEBUG]  John with $15500 is at Chance
+2016-10-02 10:27:21,221 [DEBUG]  
+
+2016-10-02 10:27:21,221 [DEBUG]  Felix with $15000 is at Empress Place
+2016-10-02 10:27:21,221 [DEBUG]  (3, 3)
+2016-10-02 10:27:21,221 [DEBUG]  Felix with $15000 is at Free Parking
+2016-10-02 10:27:21,221 [DEBUG]  
+
+2016-10-02 10:27:21,221 [DEBUG]  John with $15500 is at Chance
+2016-10-02 10:27:21,221 [DEBUG]  (3, 2)
+2016-10-02 10:27:21,221 [DEBUG]  John with $15500 is at Emerald Hill
+2016-10-02 10:27:21,222 [DEBUG]  
+
+2016-10-02 10:27:21,222 [DEBUG]  Felix with $15000 is at Free Parking
+2016-10-02 10:27:21,222 [DEBUG]  (1, 5)
+2016-10-02 10:27:21,222 [DEBUG]  Felix with $15000 is at Marina Square
+2016-10-02 10:27:21,222 [DEBUG]  
+
+2016-10-02 10:27:21,222 [DEBUG]  John with $15500 is at Emerald Hill
+2016-10-02 10:27:21,222 [DEBUG]  (2, 1)
+2016-10-02 10:27:21,222 [DEBUG]  John with $15500 is at Jail
+2016-10-02 10:27:21,222 [DEBUG]  
+
+2016-10-02 10:27:21,223 [DEBUG]  Felix with $15000 is at Marina Square
+2016-10-02 10:27:21,223 [DEBUG]  (3, 5)
+2016-10-02 10:27:21,223 [DEBUG]  Felix with $15000 is at Scotts Road
+2016-10-02 10:27:21,223 [DEBUG]  
+
