@@ -3807,3 +3807,53 @@
 2016-10-02 11:45:13,771 [DEBUG]  Felix with $15000 is in Jail
 2016-10-02 11:45:13,772 [DEBUG]  
 
+2016-10-02 19:01:48,951 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:01:48,952 [DEBUG]  (4, 5)
+2016-10-02 19:01:48,952 [DEBUG]  John with $15000 is visiting Thomson Road
+2016-10-02 19:01:48,952 [DEBUG]  
+
+2016-10-02 19:01:48,953 [DEBUG]  Felix with $15000 is visiting Go
+2016-10-02 19:01:48,953 [DEBUG]  (2, 4)
+2016-10-02 19:01:48,953 [DEBUG]  Felix with $15000 is visiting Farrer Road
+2016-10-02 19:01:48,953 [DEBUG]  
+
+2016-10-02 19:01:48,953 [DEBUG]  John with $15000 is visiting Thomson Road
+2016-10-02 19:01:48,954 [DEBUG]  (4, 4)
+2016-10-02 19:01:48,954 [DEBUG]  John with $15000 is visiting Havelock Road
+2016-10-02 19:01:48,954 [DEBUG]  
+
+2016-10-02 19:01:48,954 [DEBUG]  Felix with $15000 is visiting Farrer Road
+2016-10-02 19:01:48,954 [DEBUG]  (4, 1)
+2016-10-02 19:01:48,955 [DEBUG]  Felix with $15000 is visiting Battery Road
+2016-10-02 19:01:48,955 [DEBUG]  
+
+2016-10-02 19:01:48,955 [DEBUG]  John with $15000 is visiting Havelock Road
+2016-10-02 19:01:48,955 [DEBUG]  (1, 2)
+2016-10-02 19:01:48,955 [DEBUG]  John with $15000 is visiting Robinson Road
+2016-10-02 19:01:48,956 [DEBUG]  
+
+2016-10-02 19:01:48,956 [DEBUG]  Felix with $15000 is visiting Battery Road
+2016-10-02 19:01:48,956 [DEBUG]  (4, 5)
+2016-10-02 19:01:48,956 [DEBUG]  Felix with $15000 is visiting Robinson Road
+2016-10-02 19:01:48,956 [DEBUG]  
+
+2016-10-02 19:01:48,957 [DEBUG]  John with $15000 is visiting Robinson Road
+2016-10-02 19:01:48,957 [DEBUG]  (2, 1)
+2016-10-02 19:01:48,958 [DEBUG]  John with $15000 is visiting Coller Quay
+2016-10-02 19:01:48,959 [DEBUG]  
+
+2016-10-02 19:01:48,959 [DEBUG]  Felix with $15000 is visiting Robinson Road
+2016-10-02 19:01:48,960 [DEBUG]  (1, 2)
+2016-10-02 19:01:48,960 [DEBUG]  Felix with $15000 is visiting Coller Quay
+2016-10-02 19:01:48,960 [DEBUG]  
+
+2016-10-02 19:01:48,961 [DEBUG]  John with $15000 is visiting Coller Quay
+2016-10-02 19:01:48,961 [DEBUG]  (5, 1)
+2016-10-02 19:01:48,962 [DEBUG]  John with $15000 is visiting Jail
+2016-10-02 19:01:48,962 [DEBUG]  
+
+2016-10-02 19:01:48,963 [DEBUG]  Felix with $15000 is visiting Coller Quay
+2016-10-02 19:01:48,963 [DEBUG]  (1, 3)
+2016-10-02 19:01:48,964 [DEBUG]  Felix with $15000 is visiting Water Works
+2016-10-02 19:01:48,964 [DEBUG]  
+

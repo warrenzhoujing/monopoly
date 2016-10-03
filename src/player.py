@@ -59,6 +59,9 @@ class Player:
         else:
             logging.debug("%s has been paid %d" % (self.__name, -amount))
 
+    def receive(self, amount):
+        self.pay(-amount)
+
     def __str__(self):
         state = "{} with ${} is %s {}".format(self.__name, self.__money, board[self.__location])
 

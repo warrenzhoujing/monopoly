@@ -72,14 +72,16 @@ def check_at_chance(player):
         if chance_top_card == 'Pay school fees of $1,500.':
             player.pay(1500)
         elif chance_top_card == 'Bank pays you dividend of $500.':
-            player.pay(-500)
+            player.receive(500)
         elif chance_top_card == 'Go back three spaces.':
             player.location -= 3
         elif chance_top_card == 'You have won a crossword competition. Collect $2,000.':
-            player.pay(-2000)
+            player.receive(2000)
         elif chance_top_card == 'Go to jail. Move directly to Jail. DO NOT PASS GO, DO NOT COLLECT $2,000.':
             player.location = 10
             player.in_jail = True
+        elif chance_top_card == 'Your building loan matures. Receive $1,500.':
+            player.receive(1500)
 
         logging.debug(player)
 
