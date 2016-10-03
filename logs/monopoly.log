@@ -4063,3 +4063,228 @@
 2016-10-02 19:12:45,296 [DEBUG]  Felix with $15000 is visiting Water Works
 2016-10-02 19:12:45,296 [DEBUG]  
 
+2016-10-02 19:17:51,294 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:17:51,295 [DEBUG]  (5, 1)
+2016-10-02 19:17:51,295 [DEBUG]  John with $15000 is visiting Farrer Road
+2016-10-02 19:17:51,295 [DEBUG]  
+
+2016-10-02 19:17:51,295 [DEBUG]  Felix with $15000 is visiting Go
+2016-10-02 19:17:51,295 [DEBUG]  (2, 2)
+2016-10-02 19:17:51,295 [DEBUG]  Felix with $15000 is visiting Income Tax
+2016-10-02 19:17:51,295 [DEBUG]  
+
+2016-10-02 19:17:51,295 [DEBUG]  John with $15000 is visiting Farrer Road
+2016-10-02 19:17:51,295 [DEBUG]  (3, 5)
+2016-10-02 19:17:51,295 [DEBUG]  John with $15000 is visiting Connaught Drive
+2016-10-02 19:17:51,295 [DEBUG]  
+
+2016-10-02 19:17:51,295 [DEBUG]  Felix with $15000 is visiting Income Tax
+2016-10-02 19:17:51,295 [DEBUG]  (5, 3)
+2016-10-02 19:17:51,295 [DEBUG]  Felix with $15000 is visiting Empress Place
+2016-10-02 19:17:51,295 [DEBUG]  
+
+2016-10-02 19:17:51,295 [DEBUG]  John with $15000 is visiting Connaught Drive
+2016-10-02 19:17:51,295 [DEBUG]  (4, 3)
+2016-10-02 19:17:51,296 [DEBUG]  John with $15000 is visiting Chance
+2016-10-02 19:17:51,296 [DEBUG]  Chance card: Advance to BATTERY ROAD. IF you pass GO collect $2,000.
+2016-10-02 19:18:04,674 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:18:04,674 [DEBUG]  (5, 2)
+2016-10-02 19:18:04,674 [DEBUG]  John with $15000 is visiting Chance
+2016-10-02 19:18:04,675 [DEBUG]  Chance card: Advance to BATTERY ROAD. IF you pass GO collect $2,000.
+2016-10-02 19:19:53,589 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:19:53,589 [DEBUG]  (5, 4)
+2016-10-02 19:19:53,590 [DEBUG]  John with $15000 is visiting Thomson Road
+2016-10-02 19:19:53,590 [DEBUG]  
+
+2016-10-02 19:19:53,590 [DEBUG]  Felix with $15000 is visiting Go
+2016-10-02 19:19:53,590 [DEBUG]  (5, 3)
+2016-10-02 19:19:53,590 [DEBUG]  Felix with $15000 is visiting Braddell Road
+2016-10-02 19:19:53,590 [DEBUG]  
+
+2016-10-02 19:19:53,590 [DEBUG]  John with $15000 is visiting Thomson Road
+2016-10-02 19:19:53,590 [DEBUG]  (5, 2)
+2016-10-02 19:19:53,590 [DEBUG]  John with $15000 is visiting Colombo Court
+2016-10-02 19:19:53,590 [DEBUG]  
+
+2016-10-02 19:19:53,590 [DEBUG]  Felix with $15000 is visiting Braddell Road
+2016-10-02 19:19:53,591 [DEBUG]  (2, 2)
+2016-10-02 19:19:53,591 [DEBUG]  Felix with $15000 is visiting Empress Place
+2016-10-02 19:19:53,591 [DEBUG]  
+
+2016-10-02 19:19:53,591 [DEBUG]  John with $15000 is visiting Colombo Court
+2016-10-02 19:19:53,591 [DEBUG]  (5, 3)
+2016-10-02 19:19:53,591 [DEBUG]  John with $15000 is visiting Jurong East Station
+2016-10-02 19:19:53,591 [DEBUG]  
+
+2016-10-02 19:19:53,591 [DEBUG]  Felix with $15000 is visiting Empress Place
+2016-10-02 19:19:53,591 [DEBUG]  (1, 1)
+2016-10-02 19:19:53,591 [DEBUG]  Felix with $15000 is visiting Connaught Drive
+2016-10-02 19:19:53,591 [DEBUG]  
+
+2016-10-02 19:19:53,591 [DEBUG]  John with $15000 is visiting Jurong East Station
+2016-10-02 19:19:53,592 [DEBUG]  (2, 5)
+2016-10-02 19:19:53,592 [DEBUG]  John with $15000 is visiting Orchard Road
+2016-10-02 19:19:53,592 [DEBUG]  
+
+2016-10-02 19:19:53,592 [DEBUG]  Felix with $15000 is visiting Connaught Drive
+2016-10-02 19:19:53,592 [DEBUG]  (1, 4)
+2016-10-02 19:19:53,592 [DEBUG]  Felix with $15000 is visiting Free Parking
+2016-10-02 19:19:53,592 [DEBUG]  
+
+2016-10-02 19:19:53,592 [DEBUG]  John with $15000 is visiting Orchard Road
+2016-10-02 19:19:53,592 [DEBUG]  (3, 1)
+2016-10-02 19:19:53,592 [DEBUG]  John with $15000 is visiting Chance
+2016-10-02 19:19:53,592 [DEBUG]  Chance card: Advance to BATTERY ROAD. IF you pass GO collect $2,000.
+2016-10-02 19:20:05,808 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:20:05,808 [DEBUG]  (2, 2)
+2016-10-02 19:20:05,808 [DEBUG]  John with $15000 is visiting Income Tax
+2016-10-02 19:20:05,808 [DEBUG]  
+
+2016-10-02 19:20:05,808 [DEBUG]  Felix with $15000 is visiting Go
+2016-10-02 19:20:05,808 [DEBUG]  (1, 4)
+2016-10-02 19:20:05,809 [DEBUG]  Felix with $15000 is visiting Ang Mo Kio Station
+2016-10-02 19:20:05,809 [DEBUG]  
+
+2016-10-02 19:20:05,809 [DEBUG]  John with $15000 is visiting Income Tax
+2016-10-02 19:20:05,809 [DEBUG]  (5, 3)
+2016-10-02 19:20:05,809 [DEBUG]  John with $15000 is visiting Empress Place
+2016-10-02 19:20:05,809 [DEBUG]  
+
+2016-10-02 19:20:05,809 [DEBUG]  Felix with $15000 is visiting Ang Mo Kio Station
+2016-10-02 19:20:05,809 [DEBUG]  (5, 4)
+2016-10-02 19:20:05,810 [DEBUG]  Felix with $15000 is visiting Connaught Drive
+2016-10-02 19:20:05,810 [DEBUG]  
+
+2016-10-02 19:20:05,810 [DEBUG]  John with $15000 is visiting Empress Place
+2016-10-02 19:20:05,810 [DEBUG]  (2, 3)
+2016-10-02 19:20:05,810 [DEBUG]  John with $15000 is visiting Havelock Road
+2016-10-02 19:20:05,810 [DEBUG]  
+
+2016-10-02 19:20:05,810 [DEBUG]  Felix with $15000 is visiting Connaught Drive
+2016-10-02 19:20:05,811 [DEBUG]  (4, 4)
+2016-10-02 19:20:05,811 [DEBUG]  Felix with $15000 is visiting Shenton Way
+2016-10-02 19:20:05,811 [DEBUG]  
+
+2016-10-02 19:20:05,811 [DEBUG]  John with $15000 is visiting Havelock Road
+2016-10-02 19:20:05,811 [DEBUG]  (2, 4)
+2016-10-02 19:20:05,811 [DEBUG]  John with $15000 is visiting Coller Quay
+2016-10-02 19:20:05,811 [DEBUG]  
+
+2016-10-02 19:20:05,811 [DEBUG]  Felix with $15000 is visiting Shenton Way
+2016-10-02 19:20:05,812 [DEBUG]  (1, 3)
+2016-10-02 19:20:05,812 [DEBUG]  Felix with $15000 is visiting Emerald Hill
+2016-10-02 19:20:05,812 [DEBUG]  
+
+2016-10-02 19:20:05,812 [DEBUG]  John with $15000 is visiting Coller Quay
+2016-10-02 19:20:05,812 [DEBUG]  (2, 5)
+2016-10-02 19:20:05,812 [DEBUG]  John with $15000 is visiting Tanglin Road
+2016-10-02 19:20:05,812 [DEBUG]  
+
+2016-10-02 19:20:05,812 [DEBUG]  Felix with $15000 is visiting Emerald Hill
+2016-10-02 19:20:05,812 [DEBUG]  (1, 2)
+2016-10-02 19:20:05,812 [DEBUG]  Felix with $15000 is visiting Jail
+2016-10-02 19:20:05,813 [DEBUG]  
+
+2016-10-02 19:20:14,774 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:20:14,774 [DEBUG]  (3, 2)
+2016-10-02 19:20:14,774 [DEBUG]  John with $15000 is visiting Ang Mo Kio Station
+2016-10-02 19:20:14,775 [DEBUG]  
+
+2016-10-02 19:20:14,775 [DEBUG]  Felix with $15000 is visiting Go
+2016-10-02 19:20:14,775 [DEBUG]  (3, 3)
+2016-10-02 19:20:14,775 [DEBUG]  Felix with $15000 is visiting Farrer Road
+2016-10-02 19:20:14,775 [DEBUG]  
+
+2016-10-02 19:20:14,775 [DEBUG]  John with $15000 is visiting Ang Mo Kio Station
+2016-10-02 19:20:14,775 [DEBUG]  (5, 5)
+2016-10-02 19:20:14,775 [DEBUG]  John with $15000 is visiting City Hall Station
+2016-10-02 19:20:14,776 [DEBUG]  
+
+2016-10-02 19:20:14,776 [DEBUG]  Felix with $15000 is visiting Farrer Road
+2016-10-02 19:20:14,776 [DEBUG]  (4, 2)
+2016-10-02 19:20:14,776 [DEBUG]  Felix with $15000 is visiting Empress Place
+2016-10-02 19:20:14,776 [DEBUG]  
+
+2016-10-02 19:20:14,776 [DEBUG]  John with $15000 is visiting City Hall Station
+2016-10-02 19:20:14,776 [DEBUG]  (5, 4)
+2016-10-02 19:20:14,776 [DEBUG]  John with $15000 is visiting Jurong East Station
+2016-10-02 19:20:14,776 [DEBUG]  
+
+2016-10-02 19:20:14,777 [DEBUG]  Felix with $15000 is visiting Empress Place
+2016-10-02 19:20:14,777 [DEBUG]  (1, 3)
+2016-10-02 19:20:14,777 [DEBUG]  Felix with $15000 is visiting Colombo Court
+2016-10-02 19:20:14,777 [DEBUG]  
+
+2016-10-02 19:20:14,777 [DEBUG]  John with $15000 is visiting Jurong East Station
+2016-10-02 19:20:14,777 [DEBUG]  (1, 4)
+2016-10-02 19:20:14,777 [DEBUG]  John with $15000 is visiting Jail
+2016-10-02 19:20:14,778 [DEBUG]  
+
+2016-10-02 19:20:14,778 [DEBUG]  Felix with $15000 is visiting Colombo Court
+2016-10-02 19:20:14,778 [DEBUG]  (5, 3)
+2016-10-02 19:20:14,778 [DEBUG]  Felix with $15000 is visiting Jurong East Station
+2016-10-02 19:20:14,778 [DEBUG]  
+
+2016-10-02 19:20:14,778 [DEBUG]  John with $15000 is visiting Jail
+2016-10-02 19:20:14,778 [DEBUG]  (1, 2)
+2016-10-02 19:20:14,778 [DEBUG]  John with $15000 is visiting Community Chest
+2016-10-02 19:20:14,778 [DEBUG]  
+
+2016-10-02 19:20:14,779 [DEBUG]  Felix with $15000 is visiting Jurong East Station
+2016-10-02 19:20:14,779 [DEBUG]  (5, 4)
+2016-10-02 19:20:14,779 [DEBUG]  Felix with $15000 is visiting Scotts Road
+2016-10-02 19:20:14,779 [DEBUG]  
+
+2016-10-02 19:20:20,345 [DEBUG]  John with $15000 is visiting Go
+2016-10-02 19:20:20,345 [DEBUG]  (1, 2)
+2016-10-02 19:20:20,345 [DEBUG]  John with $15000 is visiting Serangoon Road
+2016-10-02 19:20:20,345 [DEBUG]  
+
+2016-10-02 19:20:20,345 [DEBUG]  Felix with $15000 is visiting Go
+2016-10-02 19:20:20,345 [DEBUG]  (2, 5)
+2016-10-02 19:20:20,346 [DEBUG]  Felix with $15000 is visiting Chance
+2016-10-02 19:20:20,346 [DEBUG]  Chance card: Advance to BATTERY ROAD. IF you pass GO collect $2,000.
+2016-10-02 19:20:20,346 [DEBUG]  Battery road location 11
+2016-10-02 19:20:20,346 [DEBUG]  Felix with $15000 is visiting Battery Road
+2016-10-02 19:20:20,346 [DEBUG]  
+
+2016-10-02 19:20:20,346 [DEBUG]  John with $15000 is visiting Serangoon Road
+2016-10-02 19:20:20,346 [DEBUG]  (3, 4)
+2016-10-02 19:20:20,346 [DEBUG]  John with $15000 is visiting Jail
+2016-10-02 19:20:20,346 [DEBUG]  
+
+2016-10-02 19:20:20,347 [DEBUG]  Felix with $15000 is visiting Battery Road
+2016-10-02 19:20:20,347 [DEBUG]  (3, 2)
+2016-10-02 19:20:20,347 [DEBUG]  Felix with $15000 is visiting Colombo Court
+2016-10-02 19:20:20,347 [DEBUG]  
+
+2016-10-02 19:20:20,347 [DEBUG]  John with $15000 is visiting Jail
+2016-10-02 19:20:20,347 [DEBUG]  (3, 3)
+2016-10-02 19:20:20,347 [DEBUG]  John with $15000 is visiting Colombo Court
+2016-10-02 19:20:20,347 [DEBUG]  
+
+2016-10-02 19:20:20,347 [DEBUG]  Felix with $15000 is visiting Colombo Court
+2016-10-02 19:20:20,347 [DEBUG]  (2, 4)
+2016-10-02 19:20:20,347 [DEBUG]  Felix with $15000 is visiting Shenton Way
+2016-10-02 19:20:20,347 [DEBUG]  
+
+2016-10-02 19:20:20,347 [DEBUG]  John with $15000 is visiting Colombo Court
+2016-10-02 19:20:20,347 [DEBUG]  (3, 5)
+2016-10-02 19:20:20,347 [DEBUG]  John with $15000 is visiting Jurong East Station
+2016-10-02 19:20:20,348 [DEBUG]  
+
+2016-10-02 19:20:20,348 [DEBUG]  Felix with $15000 is visiting Shenton Way
+2016-10-02 19:20:20,348 [DEBUG]  (4, 2)
+2016-10-02 19:20:20,348 [DEBUG]  Felix with $15000 is visiting Raffles City
+2016-10-02 19:20:20,348 [DEBUG]  
+
+2016-10-02 19:20:20,348 [DEBUG]  John with $15000 is visiting Jurong East Station
+2016-10-02 19:20:20,348 [DEBUG]  (1, 3)
+2016-10-02 19:20:20,348 [DEBUG]  John with $15000 is visiting Raffles City
+2016-10-02 19:20:20,348 [DEBUG]  
+
+2016-10-02 19:20:20,348 [DEBUG]  Felix with $15000 is visiting Raffles City
+2016-10-02 19:20:20,348 [DEBUG]  (1, 2)
+2016-10-02 19:20:20,348 [DEBUG]  Felix with $15000 is visiting Orchard Road
+2016-10-02 19:20:20,348 [DEBUG]  
+

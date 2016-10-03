@@ -2,6 +2,7 @@ import logging
 from collections import deque
 from random import shuffle
 
+from src.board import board
 from src.log_config import config_logger
 from src.player import Player
 
@@ -78,15 +79,15 @@ def check_at_chance(player):
         elif chance_top_card == 'You have won a crossword competition. Collect $2,000.':
             player.receive(2000)
         elif chance_top_card == 'Go to jail. Move directly to Jail. DO NOT PASS GO, DO NOT COLLECT $2,000.':
-            player.location = 10
+            player.location = board.index("Jail")
             player.in_jail = True
         elif chance_top_card == 'Your building loan matures. Receive $1,500.':
             player.receive(1500)
         elif chance_top_card == 'Advance to BATTERY ROAD. IF you pass GO collect $2,000.':
-            if player.location > 11:
+            if player.location > board.index("Battery Road"):
                 player.receive(2000)
                 logging.debug("Player passed GO")
-            player.location = 11
+            player.location = board.index("Battery Road")
 
         logging.debug(player)
 

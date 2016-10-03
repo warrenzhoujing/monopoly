@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da32bb99-177c-4b32-8369-4a98181bb7b9" name="Default" comment="">
+    <list default="true" id="da32bb99-177c-4b32-8369-4a98181bb7b9" name="Default" comment="ADD: made the chance card &quot; Advance to BATTERY ROAD. IF you pass GO collect $2,000.&quot; work">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/monopoly.log" afterPath="$PROJECT_DIR$/logs/monopoly.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/monopoly.py" afterPath="$PROJECT_DIR$/src/monopoly.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/player.py" afterPath="$PROJECT_DIR$/src/player.py" />
     </list>
     <ignored path="monopoly.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +18,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/monopoly$monopoly.coverage" NAME="monopoly Coverage Results" MODIFIED="1475460108761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/monopoly$monopoly.coverage" NAME="monopoly Coverage Results" MODIFIED="1475461220253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -33,11 +32,9 @@
       <file leaf-file-name="monopoly.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/monopoly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,8 +57,8 @@
         <option value="$PROJECT_DIR$/src/log_config.py" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/src/board.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/player.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/monopoly.py" />
       </list>
     </option>
@@ -392,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1475434006587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="REFACTOR: change pay negative to receive positive">
+      <created>1475460152015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1475460152015</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ADD: made the chance card &quot; Advance to BATTERY ROAD. IF you pass GO collect $2,000.&quot; work">
+      <created>1475460884882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1475460884882</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -404,7 +415,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42231077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42231077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -453,10 +464,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="ADD: When player lands on &quot;Chance&quot;, it will affect the player's location or money: &quot;Pay school fees of $1,500.&quot;" />
     <MESSAGE value="ADD: When player lands on &quot;Chance&quot;, it will affect the player's location or money: &quot;Bank pays you dividend of $500.&quot;" />
     <MESSAGE value="ADD: Go to jail on chance" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD: Go to jail on chance" />
+    <MESSAGE value="REFACTOR: change pay negative to receive positive" />
+    <MESSAGE value="ADD: made the chance card &quot; Advance to BATTERY ROAD. IF you pass GO collect $2,000.&quot; work" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: made the chance card &quot; Advance to BATTERY ROAD. IF you pass GO collect $2,000.&quot; work" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -509,9 +526,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -519,16 +534,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/monopoly.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1963">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2179,12 +2185,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/board.py">
+    <entry file="file://$PROJECT_DIR$/src/player.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
           <folding>
-            <marker date="1475431273000" expanded="true" signature="9:673" placeholder="..." />
+            <marker date="1475460765000" expanded="false" signature="73:73" placeholder="import ..." />
+            <marker date="1475460765000" expanded="true" signature="88:1686" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="118:297" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="324:381" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="416:443" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="482:513" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="566:598" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="636:666" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="717:748" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="794:832" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="899:938" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="970:1097" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="1123:1173" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="1201:1413" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="1445:1471" placeholder="..." />
+            <marker date="1475460765000" expanded="true" signature="1495:1686" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -2192,8 +2213,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <first_editor relative-caret-position="221">
+            <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
             <folding />
           </first_editor>
           <second_editor />
@@ -2209,38 +2230,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/player.py">
+    <entry file="file://$PROJECT_DIR$/logs/monopoly.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="-2839">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/board.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="73" />
           <folding>
-            <marker date="1475460108000" expanded="true" signature="0:72" placeholder="import ..." />
-            <marker date="1475460108000" expanded="true" signature="88:1684" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="118:297" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="324:381" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="416:443" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="482:513" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="566:598" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="636:666" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="717:748" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="794:832" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="899:938" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="970:1097" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="1123:1173" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="1201:1411" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="1443:1469" placeholder="..." />
-            <marker date="1475460108000" expanded="true" signature="1493:1684" placeholder="..." />
+            <marker date="1475431273000" expanded="true" signature="9:673" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monopoly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="78" column="57" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
