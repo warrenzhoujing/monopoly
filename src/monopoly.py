@@ -19,7 +19,7 @@ chance_cards_list = [
     "Drunk in charge. $200 fine", "Go to jail. Move directly to Jail. DO NOT PASS GO, DO NOT COLLECT $2,000."]
 shuffle(chance_cards_list)
 # chance_cards_deque = deque(chance_cards_list)
-chance_cards_deque = deque(["Go to jail. Move directly to Jail. DO NOT PASS GO, DO NOT COLLECT $2,000."])
+chance_cards_deque = deque(["Advance to BATTERY ROAD. IF you pass GO collect $2,000."])
 
 
 def main():
@@ -82,6 +82,11 @@ def check_at_chance(player):
             player.in_jail = True
         elif chance_top_card == 'Your building loan matures. Receive $1,500.':
             player.receive(1500)
+        elif chance_top_card == 'Advance to BATTERY ROAD. IF you pass GO collect $2,000.':
+            if player.location > 11:
+                player.receive(2000)
+                logging.debug("Player passed GO")
+            player.location = 11
 
         logging.debug(player)
 

@@ -55,9 +55,9 @@ class Player:
     def pay(self, amount):
         self.__money -= amount
         if amount > 0:
-            logging.debug("%s has paid %d" % (self.__name, amount))
+            logging.debug("%s has paid $%d" % (self.__name, amount))
         else:
-            logging.debug("%s has been paid %d" % (self.__name, -amount))
+            logging.debug("%s has been paid $%d" % (self.__name, -amount))
 
     def receive(self, amount):
         self.pay(-amount)
